@@ -18,6 +18,12 @@
 
 ``sudo snap install --edge spotify``
 
+## Windows 10 VM
+
 After installing all of that, I open Boxes and create a new Windows 10 VM with at least 4 CPUs, 16GB of RAM, and 150GB storage.  Boxes makes the install minimal, [download the Windows 10 ISO from Microsoft's website here.](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
-In the Windows 10 VM, download and run the Run-After-Reimage.ps1 file from here.  Modify it to remove any packages you don't want being installed and updated, then run it.  Those packages will be automatically updated on the Windows 10 VM by Chocolatey through the script.
+## Run-After-Reimage.ps1 Script
+
+This script downloads and installs packages that I list in the script from Chocolatey, then the script creates a scheduled task to ensure those packages are always installed and up to date daily.
+
+Once you modify the package list in the script, run it and let it install.  It can take awhile to install everything because of the size of the Visual Studio 2022 download.
