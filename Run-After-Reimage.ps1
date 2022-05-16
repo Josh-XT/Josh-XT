@@ -7,6 +7,7 @@ if(!(Test-Path -Path "C:\ProgramData\Automation")) { ((New-Item -Path "C:\Progra
 if (!(Test-Path -Path "C:\ProgramData\Automation\packages.csv")) { 
     # Update this if $packages if needed, key is package name from Chocolatey, value is the arguments if any.
     $packages = @{
+        "git" = ""
         "discord" = ""
         "firefox" = ""
         "powershell-core" = ""
