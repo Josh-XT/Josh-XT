@@ -52,7 +52,7 @@ Open PowerShell as Administrator and run the following:
 
 ## Why Ubuntu?
 
-Ubuntu 22.04 is my primary operating system for several reasons, I'll talk about those below.  
+[Ubuntu 22.04](https://ubuntu.com/download/desktop) is my primary operating system for several reasons, I'll talk about some of those below.  
 
 **Much faster**
 
@@ -72,4 +72,4 @@ With Windows 11 requiring TPM and a Microsoft account now, it feels good to skip
 
 **Improved Security & Privacy**
 
-It is incredibly important to keep my intellectual property (code) private and secure if I do not want it shared.  Not all code can be shared, some must remain private for security of customer data.
+This should speak for itself if you know much about Linux vs Windows in general.  There are many great articles that go far in depth about this topic and how to best secure your OS, I'll leave it to those experts to explain this particular topic.
