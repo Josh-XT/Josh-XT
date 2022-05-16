@@ -18,7 +18,7 @@ AMD Ryzen R7-4700U, 32GB DDR4-3200, 512GB M2
 
 This script will install several pieces of software that I require for my development setup.
 
-_Modify the Ubuntu-Setup.sh script unless you want my exact setup._
+_Ubuntu-Setup.sh will require modification unless you want my exact setup._
 
 ``chmod +x Ubuntu-Setup.sh``
 
@@ -32,7 +32,7 @@ This script downloads and installs packages from Chocolatey, then the script cre
 
 Once you modify the package list in the script, run it and let it install.  It can take awhile to install everything because of the size of the Visual Studio 2022 download.
 
-_Modify the Windows-Setup.ps1 script unless you want my exact setup._
+_Windows-Setup.ps1 will require modification unless you want my exact setup._
 
 ``Set-ExecutionPolicy Bypass``
 
