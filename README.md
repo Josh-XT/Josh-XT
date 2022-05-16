@@ -24,6 +24,6 @@ After installing all of that, I open Boxes and create a new Windows 10 VM with a
 
 ## Run-After-Reimage.ps1 Script
 
-This script downloads and installs packages that I list in the script from Chocolatey, then the script creates a scheduled task to ensure those packages are always installed and up to date daily.  The package list can be modified any time, it is located at ``C:\ProgramData\Automation\\packages.csv``.
+This script downloads and installs packages that I list in the script from Chocolatey, then the script creates a scheduled task to ensure those packages are always installed and up to date daily.  The package list can be modified any time, it is located at ``C:\ProgramData\Automation\packages.csv``.  To get package names, go to [Chocolatey's website](https://chocolatey.org).
 
 Once you modify the package list in the script, run it and let it install.  It can take awhile to install everything because of the size of the Visual Studio 2022 download.
