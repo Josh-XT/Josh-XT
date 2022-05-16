@@ -20,4 +20,4 @@
 
 After installing all of that, I open Boxes and create a new Windows 10 VM.  Boxes makes the install minimal, [download the Windows 10 ISO from Microsoft's website here.](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
-In the Windows 10 VM, [download and install the latest version of Visual Studio.](https://visualstudio.microsoft.com/vs/preview/)
+In the Windows 10 VM, download and run the Run-After-Reimage.ps1 file from here.  Modify it to remove any packages you don't want being installed and updated, then run it.  Those packages will be automatically updated on the Windows 10 VM by Chocolatey through the script.
