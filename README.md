@@ -24,7 +24,7 @@ This script will install several pieces of software that I require for my develo
 
 ## Windows 10 VM
 
-Use Boxes (Gnome Virtual Machine software) to create a new Windows 10 VM with 4 CPUs, 16GB RAM, and 150GB.
+Use Boxes (Gnome Virtual Machine software) to create a new Windows 10 VM with 16GB RAM and 150GB storage.
 
 ## Run-After-Reimage.ps1 Script for Windows 10 VM
 
