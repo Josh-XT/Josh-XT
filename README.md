@@ -1,3 +1,7 @@
+## About Me
+
+I am a Systems Engineer and a Software Developer.  I actively work with ``PowerShell``, ``C#/ASP.NET Core``, ``TypeScript/JavaScript``, ``MySQL/MS SQL``, ``GraphQL``, ``NuxtJS``, ``VueJS``, and several others frameworks and programming languages.  
+
 ## My Setup
 
 **Primary Operating System:** [Ubuntu 22.04](https://ubuntu.com/download/desktop)
