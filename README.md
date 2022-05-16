@@ -10,13 +10,13 @@
 
 ``npm install --global yarn``
 
-``sudo snap install --classic code``
-
 ``sudo snap install --classic powershell``
 
-``sudo snap install --edge spotify``
+``sudo snap install --classic code``
 
 ``sudo snap install --edge discord``
+
+``sudo snap install --edge spotify``
 
 After installing all of that, I open Gnome Boxes and create a Windows 10 VM.  Boxes makes the install minimal, [download the Windows 10 ISO from Microsoft's website here.](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
