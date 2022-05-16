@@ -2,7 +2,7 @@
 
 **Primary Operating System:** [Ubuntu 22.04](https://ubuntu.com/download/desktop)
 
-**Secondary Operating System (Virtual Machine):** [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
+**Virtual Machine:** [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
 **Desktop** - Self built
 
