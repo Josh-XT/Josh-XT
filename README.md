@@ -1,6 +1,6 @@
 ## Machine Specs
 
-**Desktop** Self built
+**Desktop** - Self built
 
 Intel Core i9-12900KS
 
@@ -8,7 +8,7 @@ Intel Core i9-12900KS
 
 2TB M2
 
-**Laptop** HP X360
+**Laptop** - Upgraded HP X360
 
 AMD Ryzen R7-4700U
 
@@ -16,36 +16,19 @@ AMD Ryzen R7-4700U
 
 1TB M2
 
-## My Ubuntu 22.04 Dev Setup
+**Primary Operating System:** [Ubuntu 22.04](https://ubuntu.com/download/desktop)
 
-``sudo apt install git``
+## Ubuntu-Setup.sh Script
 
-``sudo apt install nodejs``
+This script will install several pieces of software that I require for my development setup.
 
-``sudo apt install npm``
+``chmod +x ubuntu-setup.sh``
 
-``sudo apt-get install gnome-boxes``
-
-``npm install --global yarn``
-
-``sudo snap install --classic powershell``
-
-``sudo snap install --classic code``
-
-``sudo snap install onlyoffice-desktopeditors``
-
-``sudo apt install evolution``
-
-``sudo apt install evolution-ews``
-
-``sudo snap install --edge discord``
-
-``sudo snap install --edge spotify``
-
+``.\ubuntu-setup.sh``
 
 ## Windows 10 VM
 
-Open Boxes (Gnome Virtual Machine software) and create a new Windows 10 VM with at least 4 CPUs, 8GB of RAM, and 150GB storage.  I set mine up with 4 CPUs, 16GB RAM, and 250GB storage on both of my computers.  Boxes makes the install minimal, [download the Windows 10 ISO from Microsoft's website here.](https://www.microsoft.com/en-us/software-download/windows10ISO)
+Use Boxes (Gnome Virtual Machine software) to create a new Windows 10 VM with 4 CPUs, 16GB RAM, and 150GB.  Boxes makes the install minimal, [download the Windows 10 ISO from Microsoft's website here.](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
 ## Run-After-Reimage.ps1 Script
 
