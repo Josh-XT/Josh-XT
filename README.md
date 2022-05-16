@@ -4,13 +4,9 @@
 
 **Virtual Machine:** [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
-**Desktop** - Self built
+**Desktop** - Self built, Intel Core i9-12900KS, 32GB DDR5-6500, 2TB M2
 
-Intel Core i9-12900KS, 32GB DDR5-6500, 2TB M2
-
-**Laptop** - Upgraded HP X360
-
-AMD Ryzen R7-4700U, 32GB DDR4-3200, 512GB M2
+**Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 512GB M2
 
 [Download this repo for the two setup scripts mentioned below.](https://github.com/Josh-XT/Josh-XT/archive/refs/heads/main.zip)
 
