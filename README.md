@@ -20,7 +20,7 @@
 
 ## Windows 10 VM
 
-After installing all of that, I open Boxes and create a new Windows 10 VM with at least 4 CPUs, 16GB of RAM, and 150GB storage.  Boxes makes the install minimal, [download the Windows 10 ISO from Microsoft's website here.](https://www.microsoft.com/en-us/software-download/windows10ISO)
+Open Boxes (Gnome Virtual Machine software) and create a new Windows 10 VM with at least 4 CPUs, 16GB of RAM, and 150GB storage.  Boxes makes the install minimal, [download the Windows 10 ISO from Microsoft's website here.](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
 ## Run-After-Reimage.ps1 Script
 
