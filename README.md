@@ -6,9 +6,9 @@
 
 **Desktop** - Self built, Intel Core i9-12900KS, 32GB DDR5-6500, 2TB M2
 
-**Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 512GB M2
+**Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 500GB M2
 
-[Download this repo for the two setup scripts mentioned below.](https://github.com/Josh-XT/Josh-XT/archive/refs/heads/main.zip)
+[Download this zip file for the two setup scripts mentioned below.](https://github.com/Josh-XT/Josh-XT/archive/refs/heads/main.zip)
 
 _Scripts below will require modification unless you want my exact setup._
 
