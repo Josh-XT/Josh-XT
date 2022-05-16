@@ -12,6 +12,8 @@ Intel Core i9-12900KS, 32GB DDR5-6500, 2TB M2
 
 AMD Ryzen R7-4700U, 32GB DDR4-3200, 512GB M2
 
+[Download this repo for the two setup scripts mentioned below.](https://github.com/Josh-XT/Josh-XT/archive/refs/heads/main.zip)
+
 ## Ubuntu-Setup.sh Script
 
 _Modify this script unless you want my exact setup._
