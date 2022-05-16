@@ -16,9 +16,14 @@
 
 ``sudo snap install onlyoffice-desktopeditors``
 
+``sudo apt install evolution``
+
+``sudo apt install evolution-ews``
+
 ``sudo snap install --edge discord``
 
 ``sudo snap install --edge spotify``
+
 
 ## Windows 10 VM
 
