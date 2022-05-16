@@ -18,9 +18,11 @@ _Scripts below will require modification unless you want my exact setup._
 
 ## Ubuntu-Setup.sh Script
 
-This script will install several pieces of software that I require for my development setup.
+This script will install several pieces of software that I require for my development setup.  
 
-``chmod +x Ubuntu-Setup.sh``
+Open terminal and run the following:
+
+``sudo chmod +x Ubuntu-Setup.sh``
 
 ``sudo .\Ubuntu-Setup.sh``
 
@@ -28,10 +30,14 @@ This script will install several pieces of software that I require for my develo
 
 Use Boxes (Gnome Virtual Machine software) to create a new Windows 10 VM with 16GB RAM and 150GB storage.
 
-This script downloads and installs packages from Chocolatey, then the script creates a scheduled task to ensure those packages are always installed and up to date daily.  The package list can be modified any time, it is located at ``C:\ProgramData\Automation\packages.csv``.  To get package names, go to [Chocolatey's website](https://chocolatey.org).
+This script downloads and installs packages from Chocolatey, then the script creates a scheduled task to ensure those packages are always installed and up to date daily.  Packages can be found on [Chocolatey's website](https://chocolatey.org).
 
-Once you modify the package list in the script, run it and let it install.  It can take awhile to install everything because of the size of the Visual Studio 2022 download.
+The package list can be modified any time, it is located at ``C:\ProgramData\Automation\packages.csv``.
+
+Script may take some time to run as it downloads and installs some larger software packages such as Visual Studio 2022.
+
+Open PowerShell as Administrator and run the following:
 
 ``Set-ExecutionPolicy Bypass``
 
-``.\Run-After-Reimage.ps1``
+``.\Windows-Setup.ps1``
