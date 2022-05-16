@@ -1,3 +1,15 @@
+## Machine Specs
+
+**Desktop** Self built
+Intel Core i9-12900KS
+64GB DDR5-6500
+2TB M2
+
+**Laptop** HP X360
+AMD Ryzen R7-4700U
+32GB DDR4-3200
+1TB M2
+
 ## My Ubuntu 22.04 Dev Setup
 
 ``sudo apt install git``
@@ -27,7 +39,7 @@
 
 ## Windows 10 VM
 
-Open Boxes (Gnome Virtual Machine software) and create a new Windows 10 VM with at least 4 CPUs, 16GB of RAM, and 150GB storage.  Boxes makes the install minimal, [download the Windows 10 ISO from Microsoft's website here.](https://www.microsoft.com/en-us/software-download/windows10ISO)
+Open Boxes (Gnome Virtual Machine software) and create a new Windows 10 VM with at least 4 CPUs, 8GB of RAM, and 150GB storage.  I set mine up with 4 CPUs, 16GB RAM, and 250GB storage on both of my computers.  Boxes makes the install minimal, [download the Windows 10 ISO from Microsoft's website here.](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
 ## Run-After-Reimage.ps1 Script
 
