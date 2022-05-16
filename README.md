@@ -4,11 +4,11 @@ I am a Systems Engineer and a Software Developer.  I actively work with ``PowerS
 
 I use ``Visual Studio 2022`` for ``C#/ASP.NET Core`` development and ``Visual Studio Code`` for all other coding.
 
-## My philosophy
+## My Philosophy
 
 If I have to do the same manual task more than twice, it should be automated.  Living by this has resulted in many scripts, programs, and websites being created over the past 27 years, including the scripts below for automating my own PC setup process. The scripts below install and update everything I need for development and daily use.
 
-## My Setup
+## My Computer Setup
 
 **Primary Operating System:** [Ubuntu 22.04](https://ubuntu.com/download/desktop)
 
