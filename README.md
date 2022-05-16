@@ -1,13 +1,19 @@
 ## Machine Specs
 
 **Desktop** Self built
+
 Intel Core i9-12900KS
+
 64GB DDR5-6500
+
 2TB M2
 
 **Laptop** HP X360
+
 AMD Ryzen R7-4700U
+
 32GB DDR4-3200
+
 1TB M2
 
 ## My Ubuntu 22.04 Dev Setup
