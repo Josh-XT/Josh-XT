@@ -26,7 +26,7 @@ Open terminal and run the following:
 
 Use Boxes (Gnome Virtual Machine software) to create a new Windows 10 VM with 16GB RAM and 150GB storage.
 
-The **Windows-Setup.ps1** script downloads and installs packages from Chocolatey, then the script creates a scheduled task to ensure those packages are always installed and up to date daily.  Packages can be found on [Chocolatey's website](https://chocolatey.org).
+The ``Windows-Setup.ps1`` script downloads and installs packages from Chocolatey, then the script creates a scheduled task to ensure those packages are always installed and up to date daily.  Packages can be found on [Chocolatey's website](https://chocolatey.org).
 
 The package list used by the script can be modified any time, it is located at ``C:\ProgramData\Automation\packages.csv``.
 
