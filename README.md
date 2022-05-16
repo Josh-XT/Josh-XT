@@ -24,11 +24,9 @@ This script will install several pieces of software that I require for my develo
 
 ``sudo .\Ubuntu-Setup.sh``
 
-## Windows 10 VM
+## Windows 10 VM and Windows-Setup.ps1 Script
 
 Use Boxes (Gnome Virtual Machine software) to create a new Windows 10 VM with 16GB RAM and 150GB storage.
-
-## Windows-Setup.ps1 Script for Windows 10 VM
 
 _Modify this script unless you want my exact setup._
 
