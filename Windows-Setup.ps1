@@ -12,14 +12,15 @@ if (!(Test-Path -Path "C:\ProgramData\Automation\packages.csv")) {
         "firefox" = ""
         "powershell-core" = ""
         "powertoys" = ""
-        "sql-server-management-studio" = ""
         "microsoftazurestorageexplorer" = ""
         "nodejs-lts" = ""
         "yarn" = ""
-        "visualstudio2022enterprise" = "--allWorkloads --includeRecommended --includeOptional --passive --locale en-US"
+        "powerbi" = ""
         "vscode" = ""
         "winscp" = ""
         "microsoft-teams.install" = ""
+        "sql-server-management-studio" = ""
+        "visualstudio2022enterprise" = "--allWorkloads --includeRecommended --includeOptional --passive --locale en-US"
     }
     Add-Content -Path "C:\ProgramData\Automation\packages.csv" -Value '"Package","Arguments"'
     foreach($package in $packages.Keys) {
