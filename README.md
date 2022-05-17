@@ -14,9 +14,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 500GB M2
 
-**Accessories**
-
-**Mouse** - Logitech G520 Lightspeed Wireless
+**Mouse** - Logitech G502 Lightspeed Wireless
 
 **Keyboard** - Logitech K350
 
