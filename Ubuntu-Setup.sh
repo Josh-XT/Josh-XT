@@ -1,3 +1,5 @@
+#!/bin/bash
+echo "alias update='sudo apt update && sudo apt upgrade -y'" > eval echo "~$different_user/\.bash_aliases"
 sudo apt update && sudo apt upgrade -y
 sudo apt install git nodejs npm evolution evolution-ews gnome-boxes -y
 sudo npm install --global yarn
