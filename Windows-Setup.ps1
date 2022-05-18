@@ -22,10 +22,11 @@ if (!(Test-Path -Path "C:\ProgramData\Automation\packages.csv")) {
         "sql-server-management-studio" = ""
         "visualstudio2022enterprise" = "--allWorkloads --includeRecommended --includeOptional --passive --locale en-US"
     }
-    Add-Content -Path "C:\ProgramData\Automation\packages.csv" -Value '"Package","Arguments"'
+    $csv = '"Package","Arguments"'
     foreach($package in $packages.Keys) {
-        Add-Content -Path "C:\ProgramData\Automation\packages.csv" -Value """$($package)"",""$($packages[$package])"""
+        $csv += """$($package)"",""$($packages[$package])"""
     }
+    Add-Content -Path "C:\ProgramData\Automation\packages.csv" -Value $csv
 } else {
     $packages = @{}
     Import-Csv -Path "C:\ProgramData\Automation\packages.csv" -Delimiter "," | ForEach-Object { $packages.Add($_.Package, $_.Arguments) }
