@@ -1,4 +1,4 @@
-$packages = @{}
+$packages = [ordered]@{}
 if(!(Test-Path -Path "C:\ProgramData\Automation")) { ((New-Item -Path "C:\ProgramData\Automation" -ItemType Directory) | Out-Null) }
 if(!($env:ChocolateyInstall)) {
     Set-ExecutionPolicy Bypass -Scope Process -Force
@@ -9,7 +9,7 @@ if (Test-Path -Path "C:\ProgramData\Automation\packages.csv") {
     Import-Csv -Path "C:\ProgramData\Automation\packages.csv" -Delimiter "," | ForEach-Object { $packages.Add($_.Package, $_.Arguments) }
 } else {
     # Update this if $packages if needed, key is package name from Chocolatey, value is the arguments if any.
-    $packages = @{
+    $packages = [ordered]@{
         "git" = ""
         "discord" = ""
         "firefox" = ""
