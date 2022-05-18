@@ -1,10 +1,13 @@
+$packages = @{}
+if(!(Test-Path -Path "C:\ProgramData\Automation")) { ((New-Item -Path "C:\ProgramData\Automation" -ItemType Directory) | Out-Null) }
 if(!($env:ChocolateyInstall)) {
     Set-ExecutionPolicy Bypass -Scope Process -Force
     [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
     Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 }
-if(!(Test-Path -Path "C:\ProgramData\Automation")) { ((New-Item -Path "C:\ProgramData\Automation" -ItemType Directory) | Out-Null) }
-if (!(Test-Path -Path "C:\ProgramData\Automation\packages.csv")) { 
+if (Test-Path -Path "C:\ProgramData\Automation\packages.csv") {
+    Import-Csv -Path "C:\ProgramData\Automation\packages.csv" -Delimiter "," | ForEach-Object { $packages.Add($_.Package, $_.Arguments) }
+} else {
     # Update this if $packages if needed, key is package name from Chocolatey, value is the arguments if any.
     $packages = @{
         "git" = ""
@@ -22,14 +25,11 @@ if (!(Test-Path -Path "C:\ProgramData\Automation\packages.csv")) {
         "sql-server-management-studio" = ""
         "visualstudio2022enterprise" = "--allWorkloads --includeRecommended --includeOptional --passive --locale en-US"
     }
-    $csv = """Package","Arguments""`n"
+    $csv = """Package"",""Arguments""`n"
     foreach($package in $packages.Keys) {
         $csv += """$($package)"",""$($packages[$package])""`n"
     }
     Add-Content -Path "C:\ProgramData\Automation\packages.csv" -Value $csv
-} else {
-    $packages = @{}
-    Import-Csv -Path "C:\ProgramData\Automation\packages.csv" -Delimiter "," | ForEach-Object { $packages.Add($_.Package, $_.Arguments) }
 }
 if(!(Test-Path -Path "C:\ProgramData\Automation\Updater.ps1")) { (Copy-Item -Path $MyInvocation.MyCommand.Path -Destination "C:\ProgramData\Automation\Updater.ps1") }
 if(!(Get-ScheduledTaskInfo -TaskName "Chocolatey App Updates")) {    
