@@ -10,7 +10,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 ## My Hardware
 
-**Desktop** - Self built, Intel Core i9-12900KS, 32GB DDR5-6500, 2TB M2
+**Desktop** - Custom build, Intel Core i9-12900KS, 32GB DDR5-6500, 2TB M2
 
 **Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 500GB M2
 
@@ -18,7 +18,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Keyboard** - Logitech K350
 
-**Headset** - Arctis 7+
+**Headset** - SteelSeries Arctis 7+
 
 ## My PC Setup
 
