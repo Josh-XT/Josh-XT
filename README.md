@@ -2,7 +2,7 @@
 
 I am a Systems Engineer and a Software Developer.  I actively work with ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PowerShell``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``VueJS``, and ``Power BI``.
 
-I primarily use ``Visual Studio Code`` for all of my development.
+I use ``Visual Studio Code`` on ``Pop!_OS 22.04`` for all of my work.
 
 ## My Philosophy
 
@@ -22,7 +22,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 ## My PC Setup
 
-**Primary Operating System:** [Ubuntu 22.04](https://ubuntu.com/download/desktop)
+**Primary Operating System:** [Pop!_OS 22.04](https://pop.system76.com/)
 
 **Virtual Machine:** [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
@@ -30,17 +30,19 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 _Scripts below will require modification unless you want my exact setup._
 
-## Ubuntu-Setup.sh Script
+## Linux-Setup.sh Script
 
-This script will install several pieces of software that I require for my development setup.  
+This script will install several pieces of software that I require for my development setup.  I originially set this script up to be used on ``Ubuntu 22.04`` but have since switched to ``Pop!_OS 22.04`` for the auto tiling features.  The script was modified to work on ``Pop!_OS 22.04`` but still works on ``Ubuntu 22.04``.
 
 Open terminal and run the following:
 
-``sudo chmod +x Ubuntu-Setup.sh``
+``sudo chmod +x Linux-Setup.sh``
 
-``sudo .\Ubuntu-Setup.sh``
+``sudo ./Linux-Setup.sh``
 
 ## Windows 10 VM and Windows-Setup.ps1 Script
+
+I have a Windows 10 VM just in case I ever need it, but it is honestly pretty rare for me to use it.  The Windows-Setup.ps1 script sets up a Windows 10/11 machine to be a development machine for me as if it were my desktop environment, because it used to be before I switched back to Linux.
 
 Use Boxes (Gnome Virtual Machine software) to create a new Windows 10 VM with 16GB RAM and 150GB storage.
 
@@ -56,17 +58,21 @@ Open PowerShell as Administrator and run the following:
 
 ``.\Windows-Setup.ps1``
 
-## Why Ubuntu?
+## Why Pop!_OS 22.04 or Linux in general?
 
-[Ubuntu 22.04](https://ubuntu.com/download/desktop) is my primary operating system for several reasons, I'll talk about some of those below.  
+[Pop!_OS 22.04](https://pop.system76.com/) is my primary operating system for several reasons, I'll talk about some of those below.  
 
-**Much faster**
+**Auto Tiling**
 
-Ubuntu utilizes so little resources for todays hardware which makes for a mostly delay-free desktop experience.  Fast paced workloads call for fast paced operating systems.
+The main reason I went to ``Pop!_OS`` is the auto tiling feature.  The amount of time that I save in not having to move windows around and resize them is crazy.  I would encourage you to [go to their website](https://pop.system76.com/) and watch some of the short videos of the auto tiling in action.
 
 **Multiple Desktop Workflow**
 
-I found that multiple desktops and the use of the mouse wheel on the task bar makes staying focused on a task easy, but switching to another one without losing your place even easier.
+I found that multiple desktops and binding unused mouse buttons to switching workspaces makes staying focused on a task easy, but switching to another one without losing your place even easier.
+
+**Much faster**
+
+Linux utilizes so little resources for todays hardware which makes for a mostly delay-free desktop experience.  Fast paced workloads call for fast paced operating systems.
 
 **Everything is Available (And Usually Free)**
 
