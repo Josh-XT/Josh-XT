@@ -5,6 +5,7 @@ sudo dpkg -i packages-microsoft-prod.deb
 rm packages-microsoft-prod.deb
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 sudo apt update && sudo apt upgrade -y
+sudo apt remove -y libreoffice*
 sudo apt install -y snapd
 sudo apt install -y nodejs
 sudo apt install -y git
