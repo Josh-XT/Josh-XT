@@ -7,7 +7,13 @@ curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y snapd
 sudo apt install -y nodejs
-sudo apt install -y git evolution evolution-ews gnome-boxes apt-transport-https dotnet-sdk-6.0 aspnetcore-runtime-6.0
+sudo apt install -y git
+sudo apt install -y evolution 
+sudo apt install -y evolution-ews 
+sudo apt install -y gnome-boxes 
+sudo apt install -y apt-transport-https 
+sudo apt install -y dotnet-sdk-6.0 
+sudo apt install -y aspnetcore-runtime-6.0
 sudo npm install --global yarn
 sudo snap install --classic powershell
 sudo snap install --classic code
