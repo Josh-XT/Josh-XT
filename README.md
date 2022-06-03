@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Systems Engineer and a Software Developer.  I actively work with ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PowerShell``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``VueJS``, and ``Power BI``.
+I am a Systems Engineer and a Software Developer.  I actively work with ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PowerShell``, ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``VueJS``, and ``Power BI``.
 
 I use ``Visual Studio Code`` on ``Pop!_OS 22.04`` for all of my work.
 
