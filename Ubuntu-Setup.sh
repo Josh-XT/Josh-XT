@@ -15,6 +15,7 @@ sudo apt install -y gnome-boxes
 sudo apt install -y apt-transport-https 
 sudo apt install -y dotnet-sdk-6.0 
 sudo apt install -y aspnetcore-runtime-6.0
+sudo apt autoremove -y
 sudo npm install --global yarn
 sudo snap install --classic powershell
 sudo snap install --classic code
