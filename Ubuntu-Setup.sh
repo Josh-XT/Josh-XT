@@ -5,9 +5,9 @@ sudo dpkg -i packages-microsoft-prod.deb
 rm packages-microsoft-prod.deb
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 sudo apt update && sudo apt upgrade -y
-sudo apt install snapd
-sudo apt install nodejs npm
-sudo apt install git evolution evolution-ews gnome-boxes apt-transport-https dotnet-sdk-6.0 aspnetcore-runtime-6.0 -y
+sudo apt install -y snapd
+sudo apt install -y nodejs
+sudo apt install -y git evolution evolution-ews gnome-boxes apt-transport-https dotnet-sdk-6.0 aspnetcore-runtime-6.0
 sudo npm install --global yarn
 sudo snap install --classic powershell
 sudo snap install --classic code
