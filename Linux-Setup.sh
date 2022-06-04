@@ -15,11 +15,13 @@ sudo apt install -y gnome-boxes
 sudo apt install -y apt-transport-https 
 sudo apt install -y dotnet-sdk-6.0 
 sudo apt install -y aspnetcore-runtime-6.0
+sudo apt install -y powershell
+sudo apt install -y code
+sudo apt install -y discord
 sudo apt autoremove -y
 sudo npm install --global yarn
-sudo snap install --classic powershell
-sudo snap install --classic code
 sudo snap install onlyoffice-desktopeditors
-sudo snap install --edge discord
 sudo snap install --edge spotify
 git config --global pull.rebase true
+git config --global user.name "Josh XT"
+git config --global user.email josh@devxt.com
