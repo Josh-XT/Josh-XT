@@ -36,7 +36,7 @@ This script will install several pieces of software that I require for my develo
 
 Open terminal and run the following:
 
-``sudo chmod +x Linux-Setup.sh``
+``sudo chmod 755 Linux-Setup.sh``
 
 ``sudo ./Linux-Setup.sh``
 
