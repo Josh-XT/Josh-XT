@@ -1,8 +1,6 @@
 ## About Me
 
-I am a Systems Engineer and a Software Developer.  I actively work with ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PowerShell``, ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``Vue``, and many other technologies.
-
-I use ``Visual Studio Code`` on ``Pop!_OS 22.04`` for all of my development work.
+I am a Systems Engineer and a Software Developer.  I use ``Visual Studio Code`` for all code editing and database management.  I actively work with ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PowerShell``, ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``Vue``, and many other technologies.  Just about anything STEM related fasciates me.
 
 ## My Philosophy
 
@@ -30,7 +28,7 @@ _Bound the two arrow buttons next to the left mouse button to fast workspace swi
 
 _Scripts below will require modification unless you want my exact setup._
 
-## Linux-Setup.sh Script
+## Deb-Setup.sh Script
 
 This script does what handles all of my application installs and git configurations so that I can stand up a new development environment for myself in no time.  It was created to work on any ``Debian`` based distrobution, such as ``Pop!_OS``, ``Ubuntu``, ``Mint``, etc.
 
@@ -42,11 +40,11 @@ Open terminal and copy/paste the following:
 
 ``cd Josh-XT``
 
-``sudo chmod 755 ./Linux-Setup.sh``
+``sudo chmod 755 ./Deb-Setup.sh``
 
-_**Note: Linux-Setup.sh should be modified before running it so that you can enter your own details in the git config and add or remove any apt packages you might want or not want.  This script is specifically set up for me to use after a fresh image.**_
+_**Note: Deb-Setup.sh should be modified before running it so that you can enter your own details in the git config and add or remove any apt packages you might want or not want.  This script is specifically set up for me to use after a fresh image.**_
 
-``sudo ./Linux-Setup.sh``
+``sudo ./Deb-Setup.sh``
 
 ## Windows 10 VM and Windows-Setup.ps1 Script
 
