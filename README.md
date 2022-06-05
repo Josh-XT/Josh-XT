@@ -26,17 +26,25 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Virtual Machine:** [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
-[Download this zip file for the two setup scripts mentioned below.](https://github.com/Josh-XT/Josh-XT/archive/refs/heads/main.zip)
-
 _Scripts below will require modification unless you want my exact setup._
 
 ## Linux-Setup.sh Script
 
 This script will install several pieces of software that I require for my development setup.  I originially set this script up to be used on ``Ubuntu 22.04`` but have since switched to ``Pop!_OS 22.04`` for the auto tiling features.  The script was modified to work on ``Pop!_OS 22.04`` but still works on ``Ubuntu 22.04``.
 
-Open terminal and run the following:
+Open terminal and copy/paste the following after modifying with your own details:
 
-``sudo chmod 755 Linux-Setup.sh``
+``sudo apt install -y git``
+
+``git config --global user.name "Josh XT"``
+
+``git config --global user.email "josh@devxt.com"``
+
+``git clone https://github.com/Josh-XT/Josh-XT.git``
+
+``cd Josh-XT``
+
+``sudo chmod 755 ./Linux-Setup.sh``
 
 ``sudo ./Linux-Setup.sh``
 
