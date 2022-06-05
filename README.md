@@ -18,7 +18,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Mouse** - Logitech G502 Lightspeed Wireless 
 
-**Mouse Bindings:**
+**Mouse Bindings with ``Piper``:**
 
 ``G4`` bound to ``Backward`` button in the web browser.
 
