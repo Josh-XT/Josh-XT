@@ -26,7 +26,7 @@ _Bound the two arrow buttons next to the left mouse button to fast workspace swi
 
 **Virtual Machine:** [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
-_Scripts below will require modification unless you want my exact setup._
+_Scripts below will require modification unless you want my exact setup, which should only be the case if you are me._
 
 ## DebSetup.sh Script
 
