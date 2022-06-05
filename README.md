@@ -1,8 +1,8 @@
 ## About Me
 
-I am a Systems Engineer and a Software Developer.  I actively work with ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PowerShell``, ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``VueJS``, and ``Power BI``.
+I am a Systems Engineer and a Software Developer.  I actively work with ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PowerShell``, ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``Vue``, and many other technologies.
 
-I use ``Visual Studio Code`` on ``Pop!_OS 22.04`` for all of my work.
+I use ``Visual Studio Code`` on ``Pop!_OS 22.04`` for all of my development work.
 
 ## My Philosophy
 
@@ -64,9 +64,9 @@ Open PowerShell as Administrator and run the following:
 
 ``.\Windows-Setup.ps1``
 
-## Why Pop!_OS 22.04 or Linux in general?
+## Why Pop!_OS or Linux in general?
 
-[Pop!_OS 22.04](https://pop.system76.com/) is my primary operating system for several reasons, I'll talk about some of those below.  
+[Pop!_OS](https://pop.system76.com/) is my primary operating system for several reasons, I'll talk about some of those below.  
 
 **Auto Tiling**
 
