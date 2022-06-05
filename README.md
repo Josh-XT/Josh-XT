@@ -28,7 +28,7 @@ _Bound the two arrow buttons next to the left mouse button to fast workspace swi
 
 _Scripts below will require modification unless you want my exact setup._
 
-## Deb-Setup.sh Script
+## DebSetup.sh Script
 
 This script does what handles all of my application installs and git configurations so that I can stand up a new development environment for myself in no time.  It was created to work on any ``Debian`` based distrobution, such as ``Pop!_OS``, ``Ubuntu``, ``Mint``, etc.
 
@@ -40,19 +40,19 @@ Open terminal and copy/paste the following:
 
 ``cd Josh-XT``
 
-``sudo chmod 755 ./Deb-Setup.sh``
+``sudo chmod 755 ./DebSetup.sh``
 
-_**Note: Deb-Setup.sh should be modified before running it so that you can enter your own details in the git config and add or remove any apt packages you might want or not want.  This script is specifically set up for me to use after a fresh image.**_
+_**Note: DebSetup.sh should be modified before running it so that you can enter your own details in the git config and add or remove any apt packages you might want or not want.  This script is specifically set up for me to use after a fresh image.**_
 
-``sudo ./Deb-Setup.sh``
+``sudo ./DebSetup.sh``
 
-## Windows 10 VM and Windows-Setup.ps1 Script
+## Windows 10 VM and WinSetup.ps1 Script
 
-I have a Windows 10 VM just in case I ever need it, but it is honestly pretty rare for me to use it.  The Windows-Setup.ps1 script sets up a Windows 10/11 machine to be a development machine for me as if it were my desktop environment, because it used to be before I switched back to Linux.
+I have a Windows 10 VM just in case I ever need it, but it is honestly pretty rare for me to use it.  The WinSetup.ps1 script sets up a Windows 10/11 machine to be a development machine for me as if it were my desktop environment, because it used to be before I switched back to Linux.
 
 Use Boxes (Gnome Virtual Machine software) to create a new Windows 10 VM with 16GB RAM and 150GB storage.
 
-The ``Windows-Setup.ps1`` script downloads and installs packages from Chocolatey, then the script creates a scheduled task to ensure those packages are always installed and up to date daily.  Packages can be found on [Chocolatey's website](https://chocolatey.org).
+The ``WinSetup.ps1`` script downloads and installs packages from Chocolatey, then the script creates a scheduled task to ensure those packages are always installed and up to date daily.  Packages can be found on [Chocolatey's website](https://chocolatey.org).
 
 The package list used by the script can be modified any time, it is located at ``C:\ProgramData\Automation\packages.csv``.
 
@@ -62,7 +62,7 @@ Open PowerShell as Administrator and run the following:
 
 ``Set-ExecutionPolicy Bypass``
 
-``.\Windows-Setup.ps1``
+``.\WinSetup.ps1``
 
 ## Why Pop!_OS or Linux in general?
 
