@@ -8,7 +8,6 @@ sudo apt update && sudo apt upgrade -y
 sudo apt remove -y libreoffice*
 sudo apt install -y snapd
 sudo apt install -y nodejs
-sudo apt install -y git
 sudo apt install -y evolution 
 sudo apt install -y evolution-ews 
 sudo apt install -y gnome-boxes 
@@ -23,5 +22,3 @@ sudo npm install --global yarn
 sudo snap install onlyoffice-desktopeditors
 sudo snap install --edge spotify
 git config --global pull.rebase true
-git config --global user.name "Josh XT"
-git config --global user.email josh@devxt.com
