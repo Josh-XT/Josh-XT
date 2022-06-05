@@ -23,7 +23,6 @@ if (Test-Path -Path "C:\ProgramData\Automation\packages.csv") {
         "powerbi" = ""
         "sql-server-management-studio" = ""
         "visualstudio2022enterprise" = "--allWorkloads --includeRecommended --includeOptional --passive --locale en-US"
-        "discord" = ""
     }
     $csv = """Package"",""Arguments""`n"
     foreach($package in $packages.Keys) {
