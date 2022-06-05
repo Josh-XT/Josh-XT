@@ -16,6 +16,7 @@ sudo apt install -y dotnet-sdk-6.0
 sudo apt install -y aspnetcore-runtime-6.0
 sudo apt install -y powershell
 sudo apt install -y code
+sudo apt install -y piper
 sudo apt install -y discord
 sudo apt autoremove -y
 sudo npm install --global yarn
