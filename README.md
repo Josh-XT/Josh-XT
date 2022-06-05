@@ -12,13 +12,25 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 512GB M2
 
-**Mouse** - Logitech G502 Lightspeed Wireless 
-
-_Bound the two arrow buttons next to the left mouse button to fast workspace switching._
-
 **Keyboard** - Logitech K350
 
 **Headset** - SteelSeries Arctis 7+
+
+**Mouse** - Logitech G502 Lightspeed Wireless 
+
+**Mouse Bindings:**
+
+``G4`` bound to ``Backward`` button in the web browser.
+
+``G5`` bound to ``Forward`` button in the web browser.
+
+``G6/Target`` (thumb button) bound to ``CTRL + T`` to open a new web browser tab.
+
+``G7`` bound to ``CTRL + SUPER + DOWNARROW`` to navigate to the workspace down from the current one.
+
+``G8`` bound to ``CTRL + SUPER + UPARROW`` to navigate to the workspace up from the curren one.
+
+``G9`` bound to ``CTRL + B`` to open a new web browser window.
 
 ## My PC Setup
 
