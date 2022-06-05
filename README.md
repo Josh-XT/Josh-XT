@@ -14,7 +14,9 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 512GB M2
 
-**Mouse** - Logitech G502 Lightspeed Wireless (Bound the two arrow buttons next to the left mouse button to fast workspace switching.)
+**Mouse** - Logitech G502 Lightspeed Wireless 
+
+_Bound the two arrow buttons next to the left mouse button to fast workspace switching._
 
 **Keyboard** - Logitech K350
 
