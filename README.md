@@ -16,7 +16,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Headset** - SteelSeries Arctis 7+
 
-**Mouse** - Logitech G502 Lightspeed Wireless 
+**Mouse** - Logitech G502 (Wired version for my desktop, wireless version for my laptop)
 
 **Mouse Bindings with ``Piper``:**
 
