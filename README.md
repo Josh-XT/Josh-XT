@@ -36,10 +36,6 @@ Open terminal and copy/paste the following after modifying with your own details
 
 ``sudo apt install -y git``
 
-``git config --global user.name "Josh XT"``
-
-``git config --global user.email "josh@devxt.com"``
-
 ``git clone https://github.com/Josh-XT/Josh-XT.git``
 
 ``cd Josh-XT``
