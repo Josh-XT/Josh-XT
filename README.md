@@ -30,9 +30,9 @@ _Scripts below will require modification unless you want my exact setup._
 
 ## Linux-Setup.sh Script
 
-This script will install several pieces of software that I require for my development setup.  I originially set this script up to be used on ``Ubuntu 22.04`` but have since switched to ``Pop!_OS 22.04`` for the auto tiling features.  The script was modified to work on ``Pop!_OS 22.04`` but still works on ``Ubuntu 22.04``.
+This script does what handles all of my application installs and git configurations so that I can stand up a new development environment for myself in no time.  It was created to work on any ``Debian`` based distrobution, such as ``Pop!_OS``, ``Ubuntu``, ``Mint``, etc.
 
-Open terminal and copy/paste the following after modifying with your own details:
+Open terminal and copy/paste the following:
 
 ``sudo apt install -y git``
 
@@ -41,6 +41,8 @@ Open terminal and copy/paste the following after modifying with your own details
 ``cd Josh-XT``
 
 ``sudo chmod 755 ./Linux-Setup.sh``
+
+ **Note: Linux-Setup.sh should be modified before running it so that you can enter your own details in the git config and add or remove any apt packages you might want or not want.  This script is specifically set up for me to use after a fresh image.**
 
 ``sudo ./Linux-Setup.sh``
 
