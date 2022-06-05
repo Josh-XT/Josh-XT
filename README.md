@@ -42,7 +42,7 @@ Open terminal and copy/paste the following:
 
 ``sudo chmod 755 ./Linux-Setup.sh``
 
- **Note: Linux-Setup.sh should be modified before running it so that you can enter your own details in the git config and add or remove any apt packages you might want or not want.  This script is specifically set up for me to use after a fresh image.**
+_**Note: Linux-Setup.sh should be modified before running it so that you can enter your own details in the git config and add or remove any apt packages you might want or not want.  This script is specifically set up for me to use after a fresh image.**_
 
 ``sudo ./Linux-Setup.sh``
 
