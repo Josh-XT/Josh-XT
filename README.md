@@ -30,7 +30,7 @@ _Scripts below will require modification unless you want my exact setup, which s
 
 ## DebSetup.sh Script
 
-This script does what handles all of my application installs and git configurations so that I can stand up a new development environment for myself in no time.  It was created to work on any ``Debian`` based distrobution, such as ``Pop!_OS``, ``Ubuntu``, ``Mint``, etc.
+This script handles all of my application installs and git configurations so that I can stand up a new development environment for myself in minutes without missing any of my critical software or configurations.  ``DebSetup.sh`` was created to work on any ``Debian`` based distrobution, such as ``Pop!_OS``, ``Ubuntu``, ``Mint``, etc.
 
 Open terminal and copy/paste the following:
 
