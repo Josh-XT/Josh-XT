@@ -12,9 +12,9 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Desktop** - Custom build, Intel Core i9-12900KS, 32GB DDR5-6500, 2TB M2
 
-**Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 500GB M2
+**Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 512GB M2
 
-**Mouse** - Logitech G502 Lightspeed Wireless
+**Mouse** - Logitech G502 Lightspeed Wireless (Bound the two arrow buttons next to the left mouse button to fast workspace switching.)
 
 **Keyboard** - Logitech K350
 
