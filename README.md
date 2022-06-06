@@ -30,7 +30,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 ``G8`` bound to ``CTRL + SUPER + UPARROW`` to navigate to the workspace up from the curren one.
 
-``G9`` bound to ``CTRL + B`` to open a new web browser window.
+``G9`` bound to ``SUPER + B`` to open a new web browser window.
 
 ## My PC Setup
 
