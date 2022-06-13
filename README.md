@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Systems Engineer with a lot of emphasis on creating and implementing automation processes.  I use ``Visual Studio Code`` for all code editing and database management.  I actively work with ``PowerShell``, ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``Vue``, and many other technologies.  Just about anything STEM related fasciates me.
+I am a Systems Engineer with a lot of emphasis on creating and implementing automation processes.  I use ``Visual Studio Code`` for all code editing and database management.  I actively work with ``PowerShell``, ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``Vue``, and many other technologies.  Just about anything STEM related fascinates me.
 
 ## My Philosophy
 
