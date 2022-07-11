@@ -25,6 +25,3 @@ sudo snap install --edge spotify
 git config --global pull.rebase true
 git config --global user.email "josh@devxt.com"
 git config --global user.name "Josh XT"
-cat ~/.gitmessage
-echo "Updates" > "~/.gitmessage"
-git config --global commit.template ~/.gitmessage
