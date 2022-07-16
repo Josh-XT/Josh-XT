@@ -4,6 +4,7 @@ wget https://packages.microsoft.com/config/ubuntu/22.04/packages-microsoft-prod.
 sudo dpkg -i packages-microsoft-prod.deb
 rm packages-microsoft-prod.deb
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
+echo "deb http://security.ubuntu.com/ubuntu impish-security main" | sudo tee /etc/apt/sources.list.d/impish-security.list
 sudo apt update && sudo apt upgrade -y
 sudo apt remove -y libreoffice*
 sudo apt install -y snapd
@@ -18,6 +19,7 @@ sudo apt install -y powershell
 sudo apt install -y code
 sudo apt install -y piper
 sudo apt install -y discord
+sudo apt install -y libssl1.1
 sudo apt autoremove -y
 sudo npm install --global yarn
 sudo snap install onlyoffice-desktopeditors
