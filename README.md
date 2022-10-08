@@ -1,10 +1,12 @@
 ## About Me
 
-I am a Systems Engineer with a lot of emphasis on creating and implementing automation processes.  I use ``Visual Studio Code`` for all code editing and database management.  I actively work with ``PowerShell``, ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``Vue``, and many other technologies.  Just about anything STEM related fascinates me.
+I am a Systems Engineer with a lot of emphasis on creating and implementing automation processes.  I use ``Visual Studio Code`` for all code editing and database management.  For development, I actively work with ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``Python``, ``PowerShell`` ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``React``, and ``NextJS``.  
+
+A lot of what I do is creating workflow automation between other pieces of software such as ``Veeam Backups``, ``Datto Backups``, ``Datto RMM``, ``IT Glue``, ``ConnectWise Manage``, ``Liongard``, ``Domotz``, and several others.  Just about anything STEM related fascinates me, but my passion has always been for engineering.
 
 ## My Philosophy
 
-If I have to do the same manual task more than twice, it should be automated.  Living by this has resulted in many scripts, programs, and websites being created over the past 27 years, including the scripts below for automating my own PC setup process. The scripts below install and update everything I need for development and daily use.
+If I have to do the same manual task more than twice, it should be automated.  Living by this has resulted in many scripts, programs, and websites being created over the past 25+ years, including the scripts below for automating my own PC setup process. The scripts below install and update everything I need for development and daily use.
 
 ## My Hardware
 
