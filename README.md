@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Systems Engineer with a lot of emphasis on creating and implementing automation processes.  I use ``Visual Studio Code`` for all code editing and database management.  For development, I actively work with ``C#``, ``ASP.NET Core``, ``TypeScript``, ``JavaScript``, ``Python``, ``PowerShell`` ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``React``, and ``NextJS``.  
+I am a Systems Engineer with a lot of emphasis on creating and implementing automation processes.  I use ``Visual Studio Code`` for all code editing and database management.  For development, I actively work with ``C#``, ``ASP.NET Core``, ``Python``, ``PowerShell``, ``TypeScript``, ``JavaScript``,  ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``React``, and ``NextJS``.  
 
 A lot of what I do is creating workflow automation between other pieces of software such as ``Veeam Backups``, ``Datto Backups``, ``Datto RMM``, ``IT Glue``, ``ConnectWise Manage``, ``Liongard``, ``Domotz``, and several others.  Just about anything STEM related fascinates me, but my passion has always been for engineering.
 
@@ -12,7 +12,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Desktop** - Custom build, Intel Core i9-12900KS, 32GB DDR5-6500, 2TB M2
 
-**Laptop** - Upgraded HP X360, AMD Ryzen R7-4700U, 32GB DDR4-3200, 512GB M2
+**Laptop** - Upgraded HP X360, AMD Ryzen 7 4700U, 32GB DDR4-3200, 512GB M2
 
 **Keyboard** - Logitech K350
 
