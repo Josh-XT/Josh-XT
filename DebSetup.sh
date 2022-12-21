@@ -5,6 +5,9 @@ sudo dpkg -i packages-microsoft-prod.deb
 rm packages-microsoft-prod.deb
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 echo "deb http://security.ubuntu.com/ubuntu impish-security main" | sudo tee /etc/apt/sources.list.d/impish-security.list
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+rm google-chrome-stable_current_amd64.deb
 sudo apt update && sudo apt upgrade -y
 sudo apt remove -y libreoffice*
 sudo apt install -y python3
