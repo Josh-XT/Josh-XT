@@ -7,6 +7,9 @@ curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 rm google-chrome-stable_current_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+rm libssl1.1_1.1.1f-1ubuntu2_amd64.deb
 sudo apt update && sudo apt upgrade -y
 sudo apt remove -y libreoffice*
 sudo apt install -y python3
@@ -24,11 +27,10 @@ sudo apt install -y aspnetcore-runtime-6.0
 sudo apt install -y powershell
 sudo apt install -y code
 sudo apt install -y piper
-sudo apt install -y discord
-sudo apt install -y libssl1.1
 sudo /usr/local/bin/python -m pip install --upgrade pip
 sudo apt autoremove -y
 sudo npm install --global yarn
+sudo snap install -y discord
 sudo snap install onlyoffice-desktopeditors
 sudo snap install --edge spotify
 git config --global pull.rebase true
