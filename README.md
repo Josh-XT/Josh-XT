@@ -10,7 +10,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 ## My Hardware
 
-**Desktop** - Custom build, Intel Core i9-12900KS, 32GB DDR5-6500, 2TB M2
+**Desktop** - Custom build, Intel Core i9-12900KS, 64GB DDR5-6000, 2TB M2
 
 **Laptop** - Upgraded HP X360, AMD Ryzen 7 4700U, 32GB DDR4-3200, 512GB M2
 
@@ -18,7 +18,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 **Headset** - SteelSeries Arctis 7+
 
-**Mouse** - Logitech G502 (Wired version for my desktop, wireless version for my laptop)
+**Mouse** - Logitech G502
 
 **Mouse Bindings with ``Piper``:**
 
@@ -36,7 +36,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 ## My PC Setup
 
-**Primary Operating System:** [Pop!_OS 22.04](https://pop.system76.com/)
+**Primary Operating System:** [Ubuntu 22.04](https://ubuntu.com/) [with Pop Shell](https://support.system76.com/articles/pop-shell/)  (Was ``Pop!_OS 22.04`` until a kernel update issue, I'll likely go back to it after that is resolved.)
 
 **Virtual Machine:** [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
@@ -44,7 +44,7 @@ _Scripts below will require modification unless you want my exact setup, which s
 
 ## DebSetup.sh Script
 
-This script handles all of my application installs and git configurations so that I can stand up a new development environment for myself in minutes without missing any of my critical software or configurations.  ``DebSetup.sh`` was created to work on any ``Debian`` based distrobution, such as ``Pop!_OS``, ``Ubuntu``, ``Mint``, etc.
+This script handles all of my application installs and git configurations so that I can stand up a new development environment for myself in minutes without missing any of my critical software or configurations.  ``DebSetup.sh`` was created to work on any ``Debian`` based distrobution, such as ``Ubuntu``, ``Pop!_OS``, ``Mint``, etc.
 
 Open terminal and copy/paste the following:
 
