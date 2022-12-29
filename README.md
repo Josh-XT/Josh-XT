@@ -1,8 +1,6 @@
 ## About Me
 
-I am a Systems Engineer with a lot of emphasis on creating and implementing automation processes.  I use ``Visual Studio Code`` for all code editing and database management.  For development, I actively work with ``C#``, ``ASP.NET Core``, ``Python``, ``PowerShell``, ``TypeScript``, ``JavaScript``,  ``PostgreSQL``, ``MySQL``, ``Microsoft SQL``, ``GraphQL``, ``REST API``, ``React``, and ``NextJS``.  
-
-A lot of what I do is creating workflow automation between other pieces of software such as ``Veeam Backups``, ``Datto Backups``, ``Datto RMM``, ``IT Glue``, ``ConnectWise Manage``, ``Liongard``, ``Domotz``, and several others.  Just about anything STEM related fascinates me, but my passion has always been for engineering.
+I am a Software Engineer with a lot of emphasis on creating and implementing automation processes for systems management and API integrations.  I use ``Visual Studio Code`` for all code editing and database management.  For development, I actively work with ``C#``, ``ASP.NET Core``, ``Python``, ``PowerShell``, ``GraphQL``, ``TypeScript``, ``JavaScript``, ``React``, ``NextJS``, ``PostgreSQL``, ``MySQL``, and ``Microsoft SQL``.
 
 ## My Philosophy
 
@@ -36,7 +34,7 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 ## My PC Setup
 
-**Primary Operating System:** [Ubuntu 22.04](https://ubuntu.com/) [with Pop Shell](https://support.system76.com/articles/pop-shell/)  (Was ``Pop!_OS 22.04`` until a kernel update issue, I'll likely go back to it after that is resolved.)
+**Primary Operating System:** [Ubuntu 22.04](https://ubuntu.com/) with [Pop Shell](https://support.system76.com/articles/pop-shell/)  (Was ``Pop!_OS 22.04`` until a kernel update issue, I'll likely go back to it after that is resolved.)
 
 **Virtual Machine:** [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
@@ -48,17 +46,18 @@ This script handles all of my application installs and git configurations so tha
 
 Open terminal and copy/paste the following:
 
-``sudo apt install -y git``
-
-``git clone https://github.com/Josh-XT/Josh-XT.git``
-
-``cd Josh-XT``
-
-``sudo chmod 755 ./DebSetup.sh``
+```
+sudo apt install -y git
+git clone https://github.com/Josh-XT/Josh-XT.git
+cd Josh-XT
+sudo chmod 755 ./DebSetup.sh
+```
 
 _**Note: DebSetup.sh should be modified before running it so that you can enter your own details in the git config and add or remove any apt packages you might want or not want.  This script is specifically set up for me to use after a fresh image.**_
 
-``sudo ./DebSetup.sh``
+```
+sudo ./DebSetup.sh
+```
 
 ## Windows 10 VM and WinSetup.ps1 Script
 
@@ -74,17 +73,18 @@ Running the script may take some time, it downloads and installs some larger sof
 
 Open PowerShell as Administrator and run the following:
 
-``Set-ExecutionPolicy Bypass``
-
-``.\WinSetup.ps1``
+```
+Set-ExecutionPolicy Bypass
+.\WinSetup.ps1
+```
 
 ## Why Pop!_OS or Linux in general?
 
-[Pop!_OS](https://pop.system76.com/) is my primary operating system for several reasons, I'll talk about some of those below.  
+[Ubuntu](https://ubuntu.com/) and [Pop!_OS](https://pop.system76.com/) are my primary operating systems for several reasons, I'll talk about some of those below.
 
 **Auto Tiling and Multiple Workspace Workflows**
 
-The main reason I went to ``Pop!_OS`` is the auto tiling feature.  The amount of time that I save in not having to move windows around and resize them is crazy.  I would encourage you to [go to their website](https://pop.system76.com/) and watch some of the short videos of the auto tiling in action.
+The main reason I went to ``Pop!_OS`` (or ``Pop Shell`` in ``Ubuntu``) is the auto tiling feature.  The amount of time that I save in not having to move windows around and resize them is crazy.  I would encourage you to [go to their website](https://pop.system76.com/) and watch some of the short videos of the auto tiling in action.
 
 I found that multiple workspaces and binding unused mouse buttons to switching workspaces makes staying focused on a task easy, but switching to another one without losing your place even easier.  I multi-task a lot where I am working on multiple issues/projects at a time, putting anything related to whatever I am working on in one workspace separate from all of the other things I am working on keeps me extremely organized and with ``Pop!_OS`` auto tiling in each of those workspaces, I never lose a window related to what I am working on and I don't get pieces of tasks mixed up while multi-tasking due to the multiple desktops and auto tiling.  Auto tiling also encourages me to close windows when I am done with them so that they're not taking up space, further keeping me organized.
 
