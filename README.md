@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Software Engineer with a lot of emphasis on creating and implementing automation processes for systems management and API integrations.  I use ``Visual Studio Code`` for all code editing and database management.  For development, I actively work with ``C#``, ``ASP.NET Core``, ``Python``, ``PowerShell``, ``GraphQL``, ``TypeScript``, ``JavaScript``, ``React``, ``NextJS``, ``PostgreSQL``, ``MySQL``, and ``Microsoft SQL``.
+I am a Software Engineer with a lot of emphasis on creating and implementing automation processes for systems management and API integrations.  I use ``Visual Studio Code`` for all code editing and database management.  In my typical day, I actively work in ``C#``, ``ASP.NET Core``, ``Python``, ``PowerShell``, ``GraphQL``, ``TypeScript``, ``React``, ``NextJS``, and ``PostgreSQL``.  I have worked with many more programming languages, frameworks, and database management systems over the years.
 
 ## My Philosophy
 
