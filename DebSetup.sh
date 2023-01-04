@@ -34,6 +34,7 @@ sudo snap install -y discord
 sudo snap install onlyoffice-desktopeditors
 sudo snap install --edge spotify
 git config --global pull.rebase true
+git config --global submodule.recurse true
 git config --global user.email "josh@devxt.com"
 git config --global user.name "Josh XT"
 echo "Updates" > ~/.gitmessage
