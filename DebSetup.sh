@@ -31,6 +31,7 @@ sudo snap install powershell --classic
 sudo snap install -y discord
 sudo snap install onlyoffice-desktopeditors
 sudo snap install --edge spotify
+sudo snap refresh
 git config --global submodule.recurse true
 git config --global user.email "josh@devxt.com"
 git config --global user.name "Josh XT"

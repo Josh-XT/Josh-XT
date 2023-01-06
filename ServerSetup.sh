@@ -18,4 +18,5 @@ sudo snap install powershell --classic
 sudo apt install -y apt-transport-https dotnet-sdk-6.0 aspnetcore-runtime-6.0
 sudo apt install -y python3 python3-pip
 pip install --upgrade pip
-sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y 
+sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y
+sudo snap refresh
