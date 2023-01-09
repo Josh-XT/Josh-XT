@@ -22,6 +22,7 @@ sudo apt install -y evolution
 sudo apt install -y evolution-ews 
 sudo apt install -y gnome-boxes 
 sudo apt install -y apt-transport-https dotnet-sdk-6.0 aspnetcore-runtime-6.0
+sudo apt install -y dotnet-sdk-7.0
 sudo apt install -y code
 sudo apt install -y piper
 pip install --upgrade pip
