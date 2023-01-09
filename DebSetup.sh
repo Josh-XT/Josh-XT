@@ -32,6 +32,10 @@ sudo snap install -y discord
 sudo snap install onlyoffice-desktopeditors
 sudo snap install --edge spotify
 sudo snap refresh
+pip install jupyter
+pip install powershell_kernel
+python3 -m powershell_kernel.install
+python3 -m powershell_kernel.install --powershell-command pwsh
 git config --global submodule.recurse true
 git config --global user.email "josh@devxt.com"
 git config --global user.name "Josh XT"
