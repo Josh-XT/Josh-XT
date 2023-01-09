@@ -32,6 +32,10 @@ sudo snap install -y discord
 sudo snap install onlyoffice-desktopeditors
 sudo snap install --edge spotify
 sudo snap refresh
+sudo pip install jupyter
+sudo pip install powershell_kernel
+sudo python3 -m powershell_kernel.install
+sudo python3 -m powershell_kernel.install --powershell-command pwsh
 pip install jupyter
 pip install powershell_kernel
 python3 -m powershell_kernel.install
