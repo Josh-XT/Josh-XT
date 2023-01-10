@@ -32,6 +32,7 @@ sudo snap install powershell --classic
 sudo snap install -y discord
 sudo snap install onlyoffice-desktopeditors
 sudo snap install --edge spotify
+sudo snap install slack
 sudo snap refresh
 sudo pip install jupyter && pip install jupyter
 sudo pip install matplotlib && pip install matplotlib
