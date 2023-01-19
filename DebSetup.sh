@@ -21,14 +21,15 @@ sudo apt install -y snapd
 sudo apt install -y evolution 
 sudo apt install -y evolution-ews 
 sudo apt install -y gnome-boxes 
-sudo apt install -y apt-transport-https dotnet-sdk-6.0 aspnetcore-runtime-6.0
-sudo apt install -y dotnet-sdk-7.0
+sudo apt install -y apt-transport-https
 sudo apt install -y code
 sudo apt install -y piper
 pip install --upgrade pip
 sudo apt autoremove -y
 sudo npm install --global yarn
 sudo snap install powershell --classic
+sudo snap install dotnet-sdk --classic --channel=7.0
+sudo snap alias dotnet-sdk.dotnet dotnet
 sudo snap install -y discord
 sudo snap install onlyoffice-desktopeditors
 sudo snap install --edge spotify
