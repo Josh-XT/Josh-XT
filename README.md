@@ -10,4 +10,4 @@ If I have to do the same manual task more than twice, it should be automated.  L
 
 ## Quantum Computing
 
-After reading Stephen Hawking's book **``The Theory of Everything``**, my interest in Quantum Mechanics and the accompanying concepts took the top seat in what I ~~wanted~~ needed to know more about. I started down the road of learning how to write code for Quantum Computers from there and started a new repository called [Quantum](https://github.com/Josh-XT/Quantum) to share my experiences.
+After reading Stephen Hawking's book **``The Theory of Everything``**, my interest in Quantum Mechanics and the accompanying concepts took the top seat in what I ~~wanted~~ needed to know more about. I started down the road of learning how to write code for Quantum Computers from there and started a new repository called [Quantum](https://github.com/Josh-XT/Quantum) to share my experiences on my journey.
