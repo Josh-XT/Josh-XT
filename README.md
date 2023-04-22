@@ -14,7 +14,7 @@ My passion for artificial intelligence (AI) has driven me to explore its vast po
 
 My AI journey has seen me actively working on projects and learning the latest techniques in machine learning (ML) and deep learning (DL). I am currently involved in developing proprietary SaaS (Software as a Service) applications that leverage the power of AI to bring innovation and efficiency to various industries.
 
-One of my notable projects is [Agent-LLM](https://github.com/Josh-XT/Agent-LLM), a versatile Python application that uses AI language models for task management and problem-solving. It boasts both short-term and long-term memory capabilities, allowing it to recall previous interactions and context. The application supports various AI providers like OpenAI GPT-3.5, GPT-4, ChatGPT, Google Bard, Microsoft Bing, Oobabooga Text Generation Web UI, and llama.cpp. The list of providers continues to grow as the project evolves.
+One of my notable projects is [Agent-LLM](https://github.com/Josh-XT/Agent-LLM), a versatile Python application that uses AI language models for task management and problem-solving. It boasts both short-term and long-term memory capabilities, allowing it to recall previous interactions and context. The application supports various AI providers like OpenAI GPT-3.5, GPT-4, Oobabooga Text Generation Web UI, llama.cpp, and more. The list of providers continues to grow as the project evolves.
 
 #### Skills and Technologies
 
