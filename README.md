@@ -1,32 +1,48 @@
 # About Me
 
-I am a seasoned Software Engineer with a strong focus on creating and implementing automation processes for systems management and API integrations. My toolbox includes `Visual Studio Code` for code editing and database management, and I actively work with languages and technologies such as `C#`, `Python`, `PowerShell`, `GraphQL`, `TypeScript`, `NextJS`, and `PostgreSQL`. My adaptability has allowed me to work proficiently in various programming languages and tackle numerous challenges throughout my 25+ years in the industry.
+I am a seasoned Software Engineer with over 25 years of experience and a strong focus on artificial intelligence and automation processes. My adaptability has allowed me to work proficiently in various programming languages and tackle numerous challenges throughout my career.
 
-My extensive background in software development has seen me building software, web applications, and scripts using a wide range of languages and frameworks. My professional experience spans almost every area of IT, equipping me with the skills to automate time-consuming tasks and develop numerous useful tools. Even after all these years, my passion for software development and thirst for knowledge remains strong.
-## My Philosophy
+## My Expertise
 
-I firmly believe that if a manual task has to be done more than twice, it should be automated. This guiding principle has led me to create an array of scripts, applications, and websites throughout my career. One example is my [repository of scripts for automating PC and server setup processes](https://github.com/Josh-XT/Setup), which showcases my dedication to efficiency and effectiveness.
-## Quantum Computing
+I actively work with languages and technologies such as `C#`, `Python`, `PowerShell`, `GraphQL`, `TypeScript`, `NextJS`, and `PostgreSQL`. My toolbox includes `Visual Studio Code` for code editing and database management. My professional experience spans almost every area of IT, equipping me with the skills to automate time-consuming tasks and develop numerous useful tools.
 
-My fascination with Quantum Mechanics and its related concepts was ignited after reading Stephen Hawking's book **The Theory of Everything** . This newfound interest drove me to learn how to write code for Quantum Computers and create my [Quantum repository](https://github.com/Josh-XT/Quantum) to share my experiences and insights.
+### Artificial Intelligence
 
-To further my knowledge in this field, I participated in the [2023 MIT iQuHACK Quantum Computing Hackathon](https://www.iquise.mit.edu/iQuHACK/2023-01-27) and plan to engage in similar events in the future. My journey in Quantum Computing has not only expanded my technical expertise but also opened up new possibilities for innovation and collaboration.
-## Artificial Intelligence
+My passion for artificial intelligence (AI) has driven me to explore its vast potential and applications in various domains. AI has the capability to revolutionize industries, optimize processes, and create new opportunities for growth. I am dedicated to developing intelligent systems that can learn and adapt on their own, making them valuable assets in an ever-changing technological landscape.
 
-My growing interest in Artificial Intelligence (AI) has led me to explore its vast potential and applications in various domains. AI has the capability to revolutionize industries, optimize processes, and create new opportunities for growth. My AI journey has been driven by a desire to develop intelligent systems that can learn and adapt on their own, making them valuable assets in an ever-changing technological landscape.
+#### Projects
 
-### Projects
+My AI journey has seen me actively working on projects and learning the latest techniques in machine learning (ML) and deep learning (DL). I am currently involved in developing proprietary SaaS (Software as a Service) applications that leverage the power of AI to bring innovation and efficiency to various industries.
 
-I have been actively working on AI projects and learning the latest techniques in Machine Learning (ML) and Deep Learning (DL). I am currently involved in developing proprietary SaaS (Software as a Service) applications that leverage the power of AI to bring innovation and efficiency to various industries.
+One of my notable projects is [Agent-LLM](https://github.com/Josh-XT/Agent-LLM), a versatile Python application that uses AI language models for task management and problem-solving. It boasts both short-term and long-term memory capabilities, allowing it to recall previous interactions and context. The application supports various AI providers like OpenAI GPT-3.5, GPT-4, ChatGPT, Google Bard, Microsoft Bing, Oobabooga Text Generation Web UI, and llama.cpp. The list of providers continues to grow as the project evolves.
 
-### Skills and Technologies
+#### Skills and Technologies
 
 To stay up-to-date with the latest AI developments, I have been working with various ML and DL frameworks, libraries, tools, and models such as:
 - TensorFlow
 - PyTorch
-- OpenAI GPT4
+- OpenAI GTP-3/GPT-4
 - LLaMa
 - Alpaca
+- Vicuna
 - DeepPavlov
 
 Additionally, I have been exploring reinforcement learning, generative models, and unsupervised learning techniques to expand my AI skill set.
+
+### Quantum Computing
+
+My fascination with quantum mechanics and its related concepts was ignited after reading Stephen Hawking's book **The Theory of Everything**. This newfound interest drove me to learn how to write code for quantum computers and create my [Quantum repository](https://github.com/Josh-XT/Quantum) to share my experiences and insights.
+
+To further my knowledge in this field, I participated in the [2023 MIT iQuHACK Quantum Computing Hackathon](https://www.iquise.mit.edu/iQuHACK/2023-01-27) and plan to engage in similar events in the future. My journey in quantum computing has not only expanded my technical expertise but also opened up new possibilities for innovation and collaboration.
+
+## My Philosophy
+
+I firmly believe that if a manual task has to be done more than twice, it should be automated. This guiding principle has led me to create an array of scripts, applications, and websites throughout my career. One example is my [repository of scripts for automating PC and server setup processes](https://github.com/Josh-XT/Setup), which showcases my dedication to efficiency and effectiveness.
+
+## Sponsorships and Donations
+
+While my passion for AI and software development drives me to create and share my work with the community, I truly appreciate any support to help me continue exploring new technologies and expanding my projects. If you find my work valuable and want to contribute, consider sponsoring me or making a donation.
+
+Your generous contributions enable me to dedicate more time and resources to developing innovative projects, learning cutting-edge technologies, and sharing my knowledge with the community. Every bit of support, no matter the size, is genuinely appreciated and helps me maintain a sustainable environment for ongoing exploration and growth.
+
+If you're interested in sponsoring or donating, please check out my [GitHub Sponsors page](https://github.com/sponsors/Josh-XT) for more information on how to contribute. Thank you for your support and for helping me make a difference in the world of technology!
