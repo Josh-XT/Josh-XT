@@ -22,11 +22,9 @@ To stay current with AI developments, I work with ML and DL frameworks, librarie
 - TensorFlow
 - PyTorch
 - OpenAI GTP-3/GPT-4
-- LLaMa
-- Alpaca
-- Vicuna
-
-I am also exploring reinforcement learning, generative models, and unsupervised learning techniques to expand my AI skill set.
+- LLaMa (and the many derived models such as Vicuna, Alpaca, etc)
+- OpenAssistant
+- Many more, new ones are coming out daily that I am exploring.
 
 ### Quantum Computing
 
