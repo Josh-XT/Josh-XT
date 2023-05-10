@@ -21,7 +21,7 @@ One notable project is [Agent-LLM](https://github.com/Josh-XT/Agent-LLM), a vers
 To stay current with AI developments, I work with ML and DL frameworks, libraries, tools, and models, including:
 - TensorFlow
 - PyTorch
-- OpenAI GTP-3/GPT-4
+- OpenAI GPT-3/GPT-4
 - LLaMa (and the many derived models such as Vicuna, Alpaca, etc)
 - OpenAssistant
 - Many more, new ones are coming out daily that I am exploring.
