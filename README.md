@@ -14,7 +14,7 @@ My passion for AI drives me to explore its potential and applications in various
 
 My AI journey involves working on projects, learning the latest techniques in machine learning (ML) and deep learning (DL), and developing proprietary SaaS applications that leverage AI for innovation and efficiency across industries.
 
-One notable project is [Agent-LLM](https://github.com/Josh-XT/Agent-LLM), a versatile Python application utilizing AI language models for task management and problem-solving. It supports various AI providers, including OpenAI GPT-3.5, GPT-4, Oobabooga Text Generation Web UI, llama.cpp, and more, with the list continually expanding.
+One notable project is [AGiXT](https://github.com/Josh-XT/AGiXT), a versatile Python application utilizing AI language models for task management and problem-solving. It supports various AI providers, including OpenAI GPT-3.5, GPT-4, Oobabooga Text Generation Web UI, llama.cpp, and more, with the list continually expanding.
 
 #### Technologies
 
