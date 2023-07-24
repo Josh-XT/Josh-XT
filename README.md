@@ -11,50 +11,56 @@
 
 # About Me
 
-I am a seasoned Software Engineer with 25+ years of experience, specializing in artificial intelligence (AI) and automation processes. My adaptability enables me to work proficiently in various programming languages and tackle numerous challenges throughout my career.
+Hello! I'm a seasoned Software Engineer with over 25 years of experience under my belt, specializing in Artificial Intelligence (AI) and automation processes. My journey into the world of automation began at an early age of 10. Since then, my adaptability and intellectual curiosity have allowed me to acquire proficiency in various programming languages and overcome numerous challenges in my career.
 
 [![Josh-XT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-XT&show_icons=true&theme=merko)](https://github.com/Josh-XT/github-readme-stats)
 
+My passion lies in unlocking the mysteries of the universe through software, automation, and AI. I'm always looking forward, planning and strategizing for the future.
+
 ## Expertise & Skills
 
-I actively work with languages and technologies such as `C#`, `Python`, `PowerShell`, `GraphQL`, `TypeScript`, `NextJS`, and `PostgreSQL`, using `Visual Studio Code` for code editing and database management. My extensive professional experience has equipped me with the skills to automate tasks and develop innovative tools.
+I actively work with languages and technologies such as `C#`, `Python`, `PowerShell`, `GraphQL`, `TypeScript`, `NextJS`, and `PostgreSQL`, using `Visual Studio Code` for code editing and database management. This expertise allows me to not only automate tasks but also to develop innovative tools that push the boundaries of what is currently possible.
 
 ### Artificial Intelligence
 
-My passion for AI drives me to explore its potential and applications in various domains. I am dedicated to developing intelligent systems that learn and adapt independently, making them valuable assets in an ever-changing technological landscape.
+My deep-seated passion for AI drives me to continuously explore its potential across various domains. The goal is always to develop intelligent systems that can learn and adapt independently, responding to our ever-changing technological landscape.
 
-#### Projects
-
-My AI journey involves working on projects, learning the latest techniques in machine learning (ML) and deep learning (DL), and developing proprietary SaaS applications that leverage AI for innovation and efficiency across industries.
-
-One notable project is [AGiXT](https://github.com/Josh-XT/AGiXT), a versatile Python application utilizing AI language models for task management and problem-solving. It supports various AI providers, including OpenAI GPT-3.5, GPT-4, Oobabooga Text Generation Web UI, llama.cpp, and more, with the list continually expanding.
-
-#### Technologies
-
-To stay current with AI developments, I work with ML and DL frameworks, libraries, tools, and models, including:
-- TensorFlow
-- PyTorch
-- OpenAI GPT-3/GPT-4
-- LLaMa (and the many derived models such as Vicuna, Alpaca, etc)
-- OpenAssistant
-- Many more, new ones are coming out daily that I am exploring.
+One of my most significant contributions in this field is [AGiXT](https://github.com/Josh-XT/AGiXT), an open-source Artificial Intelligence Automation Platform. With AGiXT, I aimed to elevate AI's role by empowering it to determine what tasks need execution to accomplish a goal.
 
 ### Quantum Computing
 
-My fascination with quantum mechanics, ignited by Stephen Hawking's book **The Theory of Everything**, led me to learn quantum computing and create my [Quantum repository](https://github.com/Josh-XT/Quantum) to share my experiences and insights.
+Inspired by Stephen Hawking's **The Theory of Everything**, I've ventured into the world of quantum computing. This field, I believe, is set to become one of the most transformative technologies of the 21st century. To share my experiences and insights, I'ce created my [Quantum repository](https://github.com/Josh-XT/Quantum).
 
-To advance my knowledge, I participated in the [2023 MIT iQuHACK Quantum Computing Hackathon](https://www.iquise.mit.edu/iQuHACK/2023-01-27) and plan to engage in similar events in the future. This journey has expanded my technical expertise and opened up new possibilities for innovation and collaboration.
+My curiosity led me to particiapte in the [2023 MIT iQuHACK Quantum Computing Hackathon](https://www.iquise.mit.edu/iQuHACK/2023-01-27), further expanding my technical expertise and opening up opportunities for collaboration.
+
+### Interdisciplinary Work
+
+I am also a Systems Engineer working with setting up and managing IT environments for various companies. My software development skills enable me to automate many manual tasks, such as setting up new computers and servers, to improve efficiency and productivity.
+
+I am passionate about exploring the intersection of various fields and disciplines, such as AI and quantum computing. I am also interested in the intersection of AI and other fields, such as medicine, to create innovative solutions that can transform industries and improve lives. My future plans include exploring the intersection of AI and other fields, such as biotechnology, to create innovative solutions that can transform industries and improve lives.
+
+I believe that my talents as a Software Engineer can cross over and be useful in any industry. I always find a new challenge interesting and exciting, and I am eager to learn new skills and technologies to tackle them no matter the industry.
 
 ## Philosophy
 
-I firmly believe in automating manual tasks that are performed more than twice. This principle has guided me in creating various scripts, applications, and websites throughout my career, such as my [repository of scripts for automating PC and server setup processes](https://github.com/Josh-XT/Setup), showcasing my dedication to efficiency and effectiveness.
+I am a lifelong learner who is passionate about exploring new technologies, learning new skills, learning how anything works, and taking on new complex challenges. I am always looking for ways to improve my knowledge and expertise, and I am committed to sharing my experiences with others to help them grow as well.
+
+I firmly believe in automating manual tasks that are performed more than twice. This principle has guided me in creating various scripts, applications, websites, and physical tools throughout my career.
+
+I also believe in the power of open source software and its ability to transform industries and improve lives. I am committed to contributing to the open source community by sharing my knowledge and expertise through my projects and repositories. 
+
+I share what hardware, software, configurations, and automation scripts that I created for automating the PC and server setup processes for repeatable use in my [setup repository](https://github.com/Josh-XT/Setup) to help other developers maximize their productivity as I continue on my journey to maximize my own. Sharing my experiences with others and learning from their experiences is a rewarding experience that I hope to continue for years to come.
 
 ## Sponsorships & Donations
 
-By supporting my work, you actively contribute to the development of groundbreaking AI technologies and innovative solutions that have the potential to transform industries and improve lives. If you find my work valuable, consider sponsoring me or making a donation.
+Supporting my work means you're directly contributing to the development of ground-breaking AI technologies and innovative solutions that can reshape industries and better lives. Your support helps me to pour more time and resources into cutting-edge projects, learning the latest tech, and sharing my findings with the community. Money is unfortunately the biggest limiting factor for my research and development, so your support is greatly appreciated.
 
-Your contributions will not only enable me to dedicate more time and resources to creating innovative projects and learning cutting-edge technologies but also help me share my knowledge with the community, inspiring the next generation of tech enthusiasts.
+Interested in pitching in? Take your pick from the options below:
 
-As a token of my gratitude for your support, I will recognize top sponsors and contributors on my GitHub profile and project pages, helping you gain visibility within the tech community.
+[![GitHub](https://img.shields.io/badge/GitHub-Sponsor%20Josh%20XT-blue?logo=github&style=plastic)](https://github.com/sponsors/Josh-XT) [![PayPal](https://img.shields.io/badge/PayPal-Sponsor%20Josh%20XT-blue.svg?logo=paypal&style=plastic)](https://paypal.me/joshxt) [![Ko-Fi](https://img.shields.io/badge/Kofi-Sponsor%20Josh%20XT-blue.svg?logo=kofi&style=plastic)](https://ko-fi.com/joshxt)
 
-If you're interested in sponsoring or donating, please visit my [GitHub Sponsors page](https://github.com/sponsors/Josh-XT) for more information on how to contribute. Thank you for your support and for helping me make
+## Contact Me
+
+I'm always open to new opportunities and collaborations. If you'd like to get in touch, you can reach me on [LinkedIn](https://www.linkedin.com/in/joshxt/) or [Twitter](https://twitter.com/Josh_XT). I love an interesting complex challenge, so feel free to reach out if you have one for me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/joshxt/) [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=twitter&style=plastic)](https://twitter.com/Josh_XT)
