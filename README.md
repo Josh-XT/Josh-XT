@@ -13,6 +13,8 @@
 
 I am a seasoned Software Engineer with 25+ years of experience, specializing in artificial intelligence (AI) and automation processes. My adaptability enables me to work proficiently in various programming languages and tackle numerous challenges throughout my career.
 
+[![Josh-XT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-XT&show_icons=true&theme=merko)](https://github.com/Josh-XT/github-readme-stats)
+
 ## Expertise & Skills
 
 I actively work with languages and technologies such as `C#`, `Python`, `PowerShell`, `GraphQL`, `TypeScript`, `NextJS`, and `PostgreSQL`, using `Visual Studio Code` for code editing and database management. My extensive professional experience has equipped me with the skills to automate tasks and develop innovative tools.
