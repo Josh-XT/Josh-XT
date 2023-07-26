@@ -29,7 +29,7 @@ One of my most significant contributions in this field is [AGiXT](https://github
 
 ### Quantum Computing
 
-Inspired by Stephen Hawking's **The Theory of Everything**, I've ventured into the world of quantum computing. This field, I believe, is set to become one of the most transformative technologies of the 21st century. To share my experiences and insights, I'ce created my [Quantum repository](https://github.com/Josh-XT/Quantum).
+Inspired by Stephen Hawking's **The Theory of Everything**, I've ventured into the world of quantum computing. This field, I believe, is set to become one of the most transformative technologies of the 21st century. To share my experiences and insights, I've created my [Quantum repository](https://github.com/Josh-XT/Quantum).
 
 My curiosity led me to particiapte in the [2023 MIT iQuHACK Quantum Computing Hackathon](https://www.iquise.mit.edu/iQuHACK/2023-01-27), further expanding my technical expertise and opening up opportunities for collaboration.
 
