@@ -37,7 +37,7 @@ My curiosity led me to particiapte in the [2023 MIT iQuHACK Quantum Computing Ha
 
 I am also a Systems Engineer working with setting up and managing IT environments for various companies. My software development skills enable me to automate many manual tasks, such as setting up new computers and servers, to improve efficiency and productivity.
 
-I am passionate about exploring the intersection of various fields and disciplines, such as AI and quantum computing. I am also interested in the intersection of AI and other fields, such as medicine, to create innovative solutions that can transform industries and improve lives. My future plans include exploring the intersection of AI and other fields, such as biotechnology, to create innovative solutions that can transform industries and improve lives.
+I am passionate about exploring the intersection of various fields and disciplines, such as AI and quantum computing. I am also interested in the intersection of AI and other fields, such as medicine, to create innovative solutions that can transform industries and improve lives. My future plans include exploring the biotechnology and medical fields to develop AI-powered solutions that can help improve the quality of life for people around the world. 
 
 I believe that my talents as a Software Engineer can cross over and be useful in any industry. I always find a new challenge interesting and exciting, and I am eager to learn new skills and technologies to tackle them no matter the industry.
 
