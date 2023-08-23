@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=plastic)](https://github.com/Josh-XT) [![GitHub](https://img.shields.io/badge/GitHub-My%20Setup-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Setup) [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Tests-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Quantum) [![GitHub](https://img.shields.io/badge/GitHub-ezsession-blue?logo=github&style=plastic)](https://github.com/Josh-XT/ezsession) 
 
-[![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Core-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Hub-blue?logo=github&style=plastic)](https://github.com/AGiXT/hub) [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Light%20Hub-blue?logo=github&style=plastic)](https://github.com/AGiXT/light-hub) [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Streamlit%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/streamlit)
+[![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Core-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Hub-blue?logo=github&style=plastic)](https://github.com/AGiXT/hub) [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Streamlit%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/streamlit)
 
 [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Python%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/python-sdk) [![pypi](https://img.shields.io/badge/pypi-AGiXT%20Python%20SDK-blue?logo=pypi&style=plastic)](https://pypi.org/project/agixtsdk/)
 
@@ -13,9 +13,9 @@
 
 Hello! I'm a seasoned Software Engineer with over 25 years of experience under my belt, specializing in Artificial Intelligence (AI) and automation processes. My journey into the world of automation began at an early age of 10. Since then, my adaptability and intellectual curiosity have allowed me to acquire proficiency in various programming languages and overcome numerous challenges in my career.
 
-[![Josh-XT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-XT&show_icons=true&theme=merko)](https://github.com/Josh-XT/github-readme-stats)
-
 My passion lies in unlocking the mysteries of the universe through software, automation, and AI. I'm always looking forward, planning and strategizing for the future.
+
+[![Josh-XT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-XT&show_icons=true&theme=merko)](https://github.com/Josh-XT/github-readme-stats)
 
 ## Expertise & Skills
 
