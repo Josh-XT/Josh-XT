@@ -61,6 +61,6 @@ Interested in pitching in? Take your pick from the options below:
 
 ## Contact Me
 
-I'm always open to new opportunities, collaborations, advisory roles, and contract work. If you would like to get in touch, you can reach me on [LinkedIn](https://www.linkedin.com/in/joshxt/) or [Twitter](https://twitter.com/Josh_XT). I love an interesting complex challenge, so feel free to reach out if you have one for me!
+I'm always open to new opportunities, collaborations, advisory roles, and contract work. If you would like to get in touch, you can reach me on [LinkedIn](https://www.linkedin.com/in/joshxt/) or [X/Twitter](https://twitter.com/Josh_XT). I love an interesting complex challenge, so feel free to reach out if you have one for me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/joshxt/) [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=twitter&style=plastic)](https://twitter.com/Josh_XT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/joshxt/) [![X/Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=x&style=plastic)](https://twitter.com/Josh_XT)
