@@ -15,7 +15,7 @@ Hello! I'm a seasoned Software Engineer with over 25 years of experience under m
 
 My passion lies in unlocking the mysteries of the universe through software, automation, and AI. I'm always looking forward, planning and strategizing for the future.
 
-[![Josh-XT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-XT&line_height=20&include_all_commits=true&rank_icon=percentile)](https://github.com/Josh-XT/github-readme-stats)
+[![Josh-XT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-XT&line_height=20&include_all_commits=true&rank_icon=percentile)](https://github-readme-stats.vercel.app/api?username=Josh-XT&line_height=20&include_all_commits=true&rank_icon=percentile)
 
 ## Expertise & Skills
 
