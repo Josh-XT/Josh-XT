@@ -10,9 +10,11 @@ My passion for automation has followed me my whole life. I have built many piece
 
 ## Expertise & Skills
 
-I actively work with languages and technologies such as `Python`, `TypeScript`, `NextJS`, `C#`, `PowerShell`, `GraphQL`, and `PostgreSQL`, using `Visual Studio Code` for code editing and database management. This expertise allows me to not only automate tasks but also to develop innovative tools that push the boundaries of what is currently possible.
+I actively work with languages and technologies such as `Python`, `TypeScript`, `NextJS`, `C#`, `PowerShell`, `GraphQL`, and `PostgreSQL`, using `Visual Studio Code` for code editing and database management. I use `Docker` for containerization and `GitHub Actions` for continuous integration and deployment (CI/CD). I also use `GitHub` for version control and project management. I am able to work in any programming language needed for a project, and I am always eager to learn new languages, technologies, and concepts even after 25 years of writing code. I still love it.
 
 ## My Projects
+
+I actively contribute to many different repositories as needed as well as maintaining several of my own projects. I have created many projects over the years, ranging from simple scripts that set up my desktop environment to complex applications like AGiXT, an open-source Artificial Intelligence Automation Platform.
 
 ### Personal
 
@@ -24,9 +26,11 @@ I actively work with languages and technologies such as `Python`, `TypeScript`, 
 
 ### AGiXT
 
+AGiXT is an artificial intelligence automation platform. It is a collection of tools and services that work together to create an AI that can learn and adapt independently, responding to our ever-changing technological landscape.
+
 | Repository | Description |
 | --- | --- |
-| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Core-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) | AGiXT is an artificial intelligence automation platform. It is a collection of tools and services that work together to create an AI that can learn and adapt independently, responding to our ever-changing technological landscape. |
+| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Core-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) | AGiXT Core is the back end of AGiXT that handles the artificial intelligence agents logic, automation, and memory. |
 | [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Hub-blue?logo=github&style=plastic)](https://github.com/AGiXT/hub) | AGiXT Hubs enable users to deploy their own AGiXT instance with only their chosen extensions, prompts, chains, and agents. This allows users to create their own custom AGiXT instance that is tailored to their needs. |
 | [![GitHub](https://img.shields.io/badge/GitHub-NextJS%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/nextjs) | AGiXT NextJS is the web user interface for AGiXT made with NextJS. |
 | [![GitHub](https://img.shields.io/badge/GitHub-Streamlit%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/streamlit) | AGiXT Streamlit is the prototype web user interface for AGiXT made with Python and Streamlit. |
