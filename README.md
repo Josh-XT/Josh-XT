@@ -1,3 +1,5 @@
+# Josh XT
+
 [![GitHub](https://img.shields.io/badge/GitHub-Sponsor%20Josh%20XT-blue?logo=github&style=plastic)](https://github.com/sponsors/Josh-XT) [![PayPal](https://img.shields.io/badge/PayPal-Sponsor%20Josh%20XT-blue.svg?logo=paypal&style=plastic)](https://paypal.me/joshxt) [![Ko-Fi](https://img.shields.io/badge/Kofi-Sponsor%20Josh%20XT-blue.svg?logo=kofi&style=plastic)](https://ko-fi.com/joshxt)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=plastic)](https://github.com/Josh-XT) [![GitHub](https://img.shields.io/badge/GitHub-My%20Setup-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Setup) [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Tests-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Quantum) [![GitHub](https://img.shields.io/badge/GitHub-ezsession-blue?logo=github&style=plastic)](https://github.com/Josh-XT/ezsession) 
@@ -8,18 +10,17 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20TypeScript%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/typescript-sdk) [![npm](https://img.shields.io/badge/npm-AGiXT%20TypeScript%20SDK-blue?logo=npm&style=plastic)](https://www.npmjs.com/package/agixt)
 
-
-# About Me
-
-Hello! I'm a seasoned Software Engineer with over 25 years of experience under my belt, specializing in Artificial Intelligence (AI) and automation processes. My journey into the world of automation began at an early age of 10. Since then, my adaptability and intellectual curiosity have allowed me to acquire proficiency in various programming languages and overcome numerous challenges in my career.
-
-My passion lies in unlocking the mysteries of the universe through software, automation, and AI. I'm always looking forward, planning and strategizing for the future.
-
 [![Josh-XT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-XT&line_height=20&include_all_commits=true&rank_icon=percentile)](https://github-readme-stats.vercel.app/api?username=Josh-XT&line_height=20&include_all_commits=true&rank_icon=percentile)
+
+## About Me
+
+Hello! I'm a seasoned Software Engineer with over 25 years of experience under my belt, specializing in Artificial Intelligence (AI) and automation processes. My journey into the world of automation began at an early age of 10 years old. Since then, my adaptability and curiosity have allowed me to acquire proficiency in various programming languages and overcome numerous challenges in my career.
+
+My passion for automation has followed me my whole life. I have built many pieces of software over the years to help solve problems quickly and even fabricated physical tools to help me build and work on race cars, my side hobby.
 
 ## Expertise & Skills
 
-I actively work with languages and technologies such as `C#`, `Python`, `PowerShell`, `GraphQL`, `TypeScript`, `NextJS`, and `PostgreSQL`, using `Visual Studio Code` for code editing and database management. This expertise allows me to not only automate tasks but also to develop innovative tools that push the boundaries of what is currently possible.
+I actively work with languages and technologies such as `Python`, `TypeScript`, `NextJS`, `C#`, `PowerShell`, `GraphQL`, and `PostgreSQL`, using `Visual Studio Code` for code editing and database management. This expertise allows me to not only automate tasks but also to develop innovative tools that push the boundaries of what is currently possible.
 
 ### Artificial Intelligence
 
