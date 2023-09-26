@@ -1,15 +1,5 @@
 # Josh XT
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sponsor%20Josh%20XT-blue?logo=github&style=plastic)](https://github.com/sponsors/Josh-XT) [![PayPal](https://img.shields.io/badge/PayPal-Sponsor%20Josh%20XT-blue.svg?logo=paypal&style=plastic)](https://paypal.me/joshxt) [![Ko-Fi](https://img.shields.io/badge/Kofi-Sponsor%20Josh%20XT-blue.svg?logo=kofi&style=plastic)](https://ko-fi.com/joshxt)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=plastic)](https://github.com/Josh-XT) [![GitHub](https://img.shields.io/badge/GitHub-My%20Setup-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Setup) [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Tests-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Quantum) [![GitHub](https://img.shields.io/badge/GitHub-ezsession-blue?logo=github&style=plastic)](https://github.com/Josh-XT/ezsession) 
-
-[![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Core-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Hub-blue?logo=github&style=plastic)](https://github.com/AGiXT/hub) [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20NextJS%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/nextjs) [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Streamlit%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/streamlit)
-
-[![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Python%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/python-sdk) [![pypi](https://img.shields.io/badge/pypi-AGiXT%20Python%20SDK-blue?logo=pypi&style=plastic)](https://pypi.org/project/agixtsdk/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20TypeScript%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/typescript-sdk) [![npm](https://img.shields.io/badge/npm-AGiXT%20TypeScript%20SDK-blue?logo=npm&style=plastic)](https://www.npmjs.com/package/agixt)
-
 [![Josh-XT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-XT&line_height=20&include_all_commits=true&rank_icon=percentile)](https://github-readme-stats.vercel.app/api?username=Josh-XT&line_height=20&include_all_commits=true&rank_icon=percentile)
 
 ## About Me
@@ -21,6 +11,27 @@ My passion for automation has followed me my whole life. I have built many piece
 ## Expertise & Skills
 
 I actively work with languages and technologies such as `Python`, `TypeScript`, `NextJS`, `C#`, `PowerShell`, `GraphQL`, and `PostgreSQL`, using `Visual Studio Code` for code editing and database management. This expertise allows me to not only automate tasks but also to develop innovative tools that push the boundaries of what is currently possible.
+
+## My Projects
+
+### Personal
+
+| Repository | Description |
+| --- | --- |
+| [![GitHub](https://img.shields.io/badge/GitHub-My%20Setup-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Setup) | My automated operating system setup scripts for quickly deploying my development environment on a new computer or server. |
+| [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Tests-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Quantum) | My notes, code, and resources for learning and working with quantum computing. |
+| [![GitHub](https://img.shields.io/badge/GitHub-ezsession-blue?logo=github&style=plastic)](https://github.com/Josh-XT/ezsession) | A useful wrapper for handling different types authentication to different APIs. |
+
+### AGiXT
+
+| Repository | Description |
+| --- | --- |
+| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Core-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) | AGiXT is an artificial intelligence automation platform. It is a collection of tools and services that work together to create an AI that can learn and adapt independently, responding to our ever-changing technological landscape. |
+| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Hub-blue?logo=github&style=plastic)](https://github.com/AGiXT/hub) | AGiXT Hubs enable users to deploy their own AGiXT instance with only their chosen extensions, prompts, chains, and agents. This allows users to create their own custom AGiXT instance that is tailored to their needs. |
+| [![GitHub](https://img.shields.io/badge/GitHub-NextJS%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/nextjs) | AGiXT NextJS is the web user interface for AGiXT made with NextJS. |
+| [![GitHub](https://img.shields.io/badge/GitHub-Streamlit%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/streamlit) | AGiXT Streamlit is the prototype web user interface for AGiXT made with Python and Streamlit. |
+| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Python%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/python-sdk) [![pypi](https://img.shields.io/badge/pypi-AGiXT%20Python%20SDK-blue?logo=pypi&style=plastic)](https://pypi.org/project/agixtsdk/) | AGiXT Python SDK is a Python library for interacting with AGiXT. |
+| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20TypeScript%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/typescript-sdk) [![npm](https://img.shields.io/badge/npm-AGiXT%20TypeScript%20SDK-blue?logo=npm&style=plastic)](https://www.npmjs.com/package/agixt) | AGiXT TypeScript SDK is a TypeScript library for interacting with AGiXT. |
 
 ### Artificial Intelligence
 
