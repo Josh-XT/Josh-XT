@@ -23,6 +23,7 @@ I actively contribute to many different repositories as needed as well as mainta
 | [![GitHub](https://img.shields.io/badge/GitHub-My%20Setup-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Setup) | My automated operating system setup scripts for quickly deploying my development environment on a new computer or server. |
 | [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Tests-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Quantum) | My notes, code, and resources for learning and working with quantum computing. |
 | [![GitHub](https://img.shields.io/badge/GitHub-ezsession-blue?logo=github&style=plastic)](https://github.com/Josh-XT/ezsession) | A useful wrapper for handling different types authentication to different APIs. |
+| [![GitHub](https://img.shields.io/badge/GitHub-SafeExecute-blue?logo=github&style=plastic)](https://github.com/Josh-XT/SafeExecute) | Safe containerized Python Code Execution Environment for language models to use. |
 
 ### AGiXT
 
@@ -30,7 +31,7 @@ AGiXT is an artificial intelligence automation platform. It is a collection of t
 
 | Repository | Description |
 | --- | --- |
-| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Core-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) | AGiXT Core is the back end of AGiXT that handles the artificial intelligence agents logic, automation, and memory. |
+| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) | AGiXT handles the artificial intelligence agents logic, automation, and memory back end system of the automation platform. |
 | [![GitHub](https://img.shields.io/badge/GitHub-NextJS%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/nextjs) | AGiXT NextJS is the web user interface for AGiXT made with NextJS. |
 | [![GitHub](https://img.shields.io/badge/GitHub-Streamlit%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/streamlit) | AGiXT Streamlit is the prototype web user interface for AGiXT made with Python and Streamlit. |
 | [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Python%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/python-sdk) [![pypi](https://img.shields.io/badge/pypi-AGiXT%20Python%20SDK-blue?logo=pypi&style=plastic)](https://pypi.org/project/agixtsdk/) | AGiXT Python SDK is a Python library for interacting with AGiXT. |
