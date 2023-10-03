@@ -24,6 +24,7 @@ I actively contribute to many different repositories as needed as well as mainta
 | [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Tests-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Quantum) | My notes, code, and resources for learning and working with quantum computing. |
 | [![GitHub](https://img.shields.io/badge/GitHub-ezsession-blue?logo=github&style=plastic)](https://github.com/Josh-XT/ezsession) | A useful wrapper for handling different types authentication to different APIs. |
 | [![GitHub](https://img.shields.io/badge/GitHub-SafeExecute-blue?logo=github&style=plastic)](https://github.com/Josh-XT/SafeExecute) | Safe containerized Python Code Execution Environment for language models to use. |
+| [![GitHub](https://img.shields.io/badge/GitHub-Local-LLM-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Local-LLM) | Local-LLM is a llama.cpp server in Docker with OpenAI Style Endpoints. It enables users to run a locally hosted language model by entering the URL of the model they want to use. |
 
 ### AGiXT
 
