@@ -33,7 +33,6 @@ AGiXT is an artificial intelligence automation platform. It is a collection of t
 | Repository | Description |
 | --- | --- |
 | [![GitHub](https://img.shields.io/badge/GitHub-AGiXT-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) | AGiXT handles the artificial intelligence agents logic, automation, and memory back end system of the automation platform. |
-| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Web%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/nextjs) | AGiXT NextJS Web UI is the web user interface for AGiXT made with NextJS. |
 | [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Streamlit%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/streamlit) | AGiXT Streamlit is the prototype web user interface for AGiXT made with Python and Streamlit. |
 | [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Python%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/python-sdk) [![pypi](https://img.shields.io/badge/pypi-AGiXT%20Python%20SDK-blue?logo=pypi&style=plastic)](https://pypi.org/project/agixtsdk/) | AGiXT Python SDK is a Python library for interacting with AGiXT. |
 | [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20TypeScript%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/typescript-sdk) [![npm](https://img.shields.io/badge/npm-AGiXT%20TypeScript%20SDK-blue?logo=npm&style=plastic)](https://www.npmjs.com/package/agixt) | AGiXT TypeScript SDK is a TypeScript library for interacting with AGiXT. |
