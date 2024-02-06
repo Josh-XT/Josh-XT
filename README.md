@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm a seasoned Software Engineer with over 25 years of experience under my belt, specializing in Artificial Intelligence (AI) and automation processes. My journey into the world of automation began at an early age of 10 years old. Since then, my adaptability and curiosity have allowed me to acquire proficiency in various programming languages and overcome numerous challenges in my career.
+Hello! I'm a seasoned Software Engineer with over 25 years of experience under my belt, specializing in Artificial Intelligence (AI) and automation processes. I am also the founder and CTO of DevXT. My journey into the world of automation began at an early age of 10 years old. Since then, my adaptability and curiosity have allowed me to acquire proficiency in various programming languages and overcome numerous challenges in my career.
 
 My passion for automation has followed me my whole life. I have built many pieces of software over the years to help solve problems quickly and even fabricated physical tools to help me build and work on race cars, my side hobby.
 
@@ -24,7 +24,7 @@ I actively contribute to many different repositories as needed as well as mainta
 | [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Tests-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Quantum) | My notes, code, and resources for learning and working with quantum computing. |
 | [![GitHub](https://img.shields.io/badge/GitHub-ezsession-blue?logo=github&style=plastic)](https://github.com/Josh-XT/ezsession) | A useful wrapper for handling different types authentication to different APIs. |
 | [![GitHub](https://img.shields.io/badge/GitHub-SafeExecute-blue?logo=github&style=plastic)](https://github.com/Josh-XT/SafeExecute) | Safe containerized Python Code Execution Environment for language models to use. |
-| [![GitHub](https://img.shields.io/badge/GitHub-Local%20LLM-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Local-LLM) | Local-LLM is a llama.cpp server in Docker with OpenAI Style Endpoints. It enables users to run a locally hosted language model by entering the URL of the model they want to use. |
+| [![GitHub](https://img.shields.io/badge/GitHub-Local%20LLM-blue?logo=github&style=plastic)](https://github.com/DevXT-LLC/ezlocalai) | ezlocalai is an easy to set up local artificial intelligence server with OpenAI Style Endpoints. It enables users to run a locally hosted language model by entering the URL of the model they want to use. |
 
 ### AGiXT
 
