@@ -14,28 +14,19 @@ I actively work with languages and technologies such as `Python`, `TypeScript`, 
 
 ## My Projects
 
-I actively contribute to many different repositories as needed as well as maintaining several of my own projects. I have created many projects over the years, ranging from simple scripts that set up my desktop environment to complex applications like AGiXT, an open-source Artificial Intelligence Automation Platform.
-
-### Personal
+I actively contribute to many different repositories as needed as well as maintaining several of my own projects. I have created many projects over the years, ranging from simple scripts that set up my desktop environment to complex applications like AGiXT, an open-source Artificial Intelligence Automation Platform. Below are some of my most notable projects:
 
 | Repository | Description |
 | --- | --- |
-| [![GitHub](https://img.shields.io/badge/GitHub-My%20Setup-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Setup) | My automated operating system setup scripts for quickly deploying my development environment on a new computer or server. |
-| [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Tests-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Quantum) | My notes, code, and resources for learning and working with quantum computing. |
-| [![GitHub](https://img.shields.io/badge/GitHub-ezsession-blue?logo=github&style=plastic)](https://github.com/Josh-XT/ezsession) | A useful wrapper for handling different types authentication to different APIs. |
-| [![GitHub](https://img.shields.io/badge/GitHub-SafeExecute-blue?logo=github&style=plastic)](https://github.com/Josh-XT/SafeExecute) | Safe containerized Python Code Execution Environment for language models to use. |
-| [![GitHub](https://img.shields.io/badge/GitHub-ezlocalai-blue?logo=github&style=plastic)](https://github.com/DevXT-LLC/ezlocalai) | ezlocalai is an easy to set up local artificial intelligence server with OpenAI Style Endpoints. It enables users to run a locally hosted language model by entering the URL of the model they want to use. |
-
-### AGiXT
-
-AGiXT is an artificial intelligence automation platform. It is a collection of tools and services that work together to create an AI that can learn and adapt independently, responding to our ever-changing technological landscape.
-
-| Repository | Description |
-| --- | --- |
-| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) | AGiXT handles the artificial intelligence agents logic, automation, and memory back end system of the automation platform. |
+| [![GitHub](https://img.shields.io/badge/GitHub-AGiXT-blue?logo=github&style=plastic)](https://github.com/Josh-XT/AGiXT) | AGiXT is an artificial intelligence automation platform. It is a collection of tools and services that work together to create an AI that can learn and adapt independently, responding to our ever-changing technological landscape. AGiXT handles the artificial intelligence agents logic, automation, and memory back end system of the automation platform. |
 | [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Streamlit%20UI-blue?logo=github&style=plastic)](https://github.com/AGiXT/streamlit) | AGiXT Streamlit is the prototype web user interface for AGiXT made with Python and Streamlit. |
 | [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20Python%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/python-sdk) [![pypi](https://img.shields.io/badge/pypi-AGiXT%20Python%20SDK-blue?logo=pypi&style=plastic)](https://pypi.org/project/agixtsdk/) | AGiXT Python SDK is a Python library for interacting with AGiXT. |
 | [![GitHub](https://img.shields.io/badge/GitHub-AGiXT%20TypeScript%20SDK-blue?logo=github&style=plastic)](https://github.com/AGiXT/typescript-sdk) [![npm](https://img.shields.io/badge/npm-AGiXT%20TypeScript%20SDK-blue?logo=npm&style=plastic)](https://www.npmjs.com/package/agixt) | AGiXT TypeScript SDK is a TypeScript library for interacting with AGiXT. |
+| [![GitHub](https://img.shields.io/badge/GitHub-ezlocalai-blue?logo=github&style=plastic)](https://github.com/DevXT-LLC/ezlocalai) | ezlocalai is an easy to set up local artificial intelligence server with OpenAI Style Endpoints. It enables users to run a locally hosted language model by entering the URL of the model they want to use. |
+| [![GitHub](https://img.shields.io/badge/GitHub-ezsession-blue?logo=github&style=plastic)](https://github.com/Josh-XT/ezsession) | A useful wrapper for handling different types authentication to different APIs. |
+| [![GitHub](https://img.shields.io/badge/GitHub-SafeExecute-blue?logo=github&style=plastic)](https://github.com/Josh-XT/SafeExecute) | Safe containerized Python Code Execution Environment for language models to use. |
+| [![GitHub](https://img.shields.io/badge/GitHub-My%20Setup-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Setup) | My automated operating system setup scripts for quickly deploying my development environment on a new computer or server. |
+| [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Tests-blue?logo=github&style=plastic)](https://github.com/Josh-XT/Quantum) | My notes, code, and resources for learning and working with quantum computing. |
 
 ### Artificial Intelligence
 
