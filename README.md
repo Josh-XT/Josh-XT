@@ -66,8 +66,11 @@ Interested in pitching in? Take your pick from the options below:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sponsor%20Josh%20XT-blue?logo=github&style=plastic)](https://github.com/sponsors/Josh-XT) [![PayPal](https://img.shields.io/badge/PayPal-Sponsor%20Josh%20XT-blue.svg?logo=paypal&style=plastic)](https://paypal.me/joshxt) [![Ko-Fi](https://img.shields.io/badge/Kofi-Sponsor%20Josh%20XT-blue.svg?logo=kofi&style=plastic)](https://ko-fi.com/joshxt)
 
+- Solana `JCN3gVwyiknVMX6Zd9GyKSTzGiS1TgeQizeZxL3Wt4y4`
+- Ethereum `0xc2dE8100e71B95f7788CbBABd736cAa51F0aA60F`
+
 ## Contact Me
 
 I'm always open to new opportunities, collaborations, advisory roles, and contract work. If you would like to get in touch, you can reach me on [LinkedIn](https://www.linkedin.com/in/joshxt/) or [X/Twitter](https://twitter.com/Josh_XT). I love an interesting complex challenge, so feel free to reach out if you have one for me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/joshxt/) [![X/Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=x&style=plastic)](https://twitter.com/Josh_XT)
+[![X/Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=x&style=plastic)](https://twitter.com/Josh_XT)
