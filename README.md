@@ -66,7 +66,7 @@ Interested in pitching in? Take your pick from the options below:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sponsor%20Josh%20XT-blue?logo=github&style=plastic)](https://github.com/sponsors/Josh-XT) [![PayPal](https://img.shields.io/badge/PayPal-Sponsor%20Josh%20XT-blue.svg?logo=paypal&style=plastic)](https://paypal.me/joshxt) [![Ko-Fi](https://img.shields.io/badge/Kofi-Sponsor%20Josh%20XT-blue.svg?logo=kofi&style=plastic)](https://ko-fi.com/joshxt)
 
-- Solana `JCN3gVwyiknVMX6Zd9GyKSTzGiS1TgeQizeZxL3Wt4y4`
+- Solana `EmMgRcfTuyoX577SmRhjFVkWRFRvTwFfiY8wf5preXC1`
 - Ethereum `0xc2dE8100e71B95f7788CbBABd736cAa51F0aA60F`
 
 ## Contact Me
