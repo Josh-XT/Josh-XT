@@ -69,6 +69,8 @@ Interested in pitching in? Take your pick from the options below:
 - Solana `EmMgRcfTuyoX577SmRhjFVkWRFRvTwFfiY8wf5preXC1`
 - Ethereum `0xc2dE8100e71B95f7788CbBABd736cAa51F0aA60F`
 
+AGiXT contract addresss: F9TgEJLLRUKDRF16HgjUCdJfJ5BK6ucyiW8uJxVPpump
+
 ## Contact Me
 
 I'm always open to new opportunities, collaborations, advisory roles, and contract work. If you would like to get in touch, you can reach me on [LinkedIn](https://www.linkedin.com/in/joshxt/) or [X/Twitter](https://twitter.com/Josh_XT). I love an interesting complex challenge, so feel free to reach out if you have one for me!
